@@ -1,0 +1,546 @@
+---
+level: 3
+basename: Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373
+parent_basename: Washington_a27a66_maury_island_claims_f9fc93
+child_basenames: []
+sibling_basenames:
+- Washington_a27a66_maury_island_claims_f9fc93_maury_b25_crash_rumo_538c77
+tags:
+- washington
+- maury-island
+- debris-claims
+keywords:
+- washington
+- maury-island
+- debris-claims
+affiliate_category: washington
+show_ads: true
+description: The alleged fragments were the case's strongest physical hook, but surviving accounts point towards ordinary slag, scrap and pumice.
+hero_summary: The alleged fragments were the case's strongest physical hook, but surviving accounts point towards ordinary slag, scrap and pumice.
+layout: default
+permalink: /debris-claims/
+sidebar_expanded_urls:
+- /why-washington-shaped-ufo-history/
+- /maury-island/
+nav_short_title: Debris claims
+title: Was the Maury Island debris ever convincing?
+title_full: Was the Maury Island debris ever convincing? | Maury Island
+display_title_short: Debris claims
+display_title: Debris claims
+heading_title: Was the Maury Island debris ever convincing?
+page_heading_title: Was the Maury Island debris ever convincing?
+source_count: 23
+infographic_count: 3
+planned_sections:
+- What witnesses said fell onto the boat
+- How the fragments were described later
+- Why chain of custody matters here
+focal_unit_type: dataset_evidence
+topic_lens: evidence
+topic_granularity: single_case_aspect
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-05-30 16:25:22'
+parent_title: Why Maury Island Still Divides Readers | Washington UFOs
+parent_permalink: /maury-island/
+parent_nav_short_title: Maury Island
+parent_heading_title: Why Maury Island Still Divides Readers
+ancestor_links:
+- basename: Washington_a27a66
+  title: Washington UFOs
+  permalink: /why-washington-shaped-ufo-history/
+  short_title: Washington UFOs
+- basename: Washington_a27a66_maury_island_claims_f9fc93
+  title: Maury Island | Why Washington Shaped UFO History
+  permalink: /maury-island/
+  short_title: Maury Island
+  heading_title: Why Maury Island Still Divides Readers
+breadcrumb_links:
+- basename: Washington_a27a66
+  title: Washington UFOs
+  permalink: /why-washington-shaped-ufo-history/
+  short_title: Washington UFOs
+- basename: Washington_a27a66_maury_island_claims_f9fc93
+  title: Maury Island | Why Washington Shaped UFO History
+  permalink: /maury-island/
+  short_title: Maury Island
+  heading_title: Why Maury Island Still Divides Readers
+sibling_links:
+- basename: Washington_a27a66_maury_island_claims_f9fc93_maury_b25_crash_rumo_538c77
+  title: B 25 rumours | Maury Island
+  permalink: /b-25-rumours/
+  short_title: B 25 rumours
+  heading_title: Did the B 25 crash prove a cover up?
+up_link:
+  basename: Washington_a27a66_maury_island_claims_f9fc93
+  title: Maury Island | Why Washington Shaped UFO History
+  permalink: /maury-island/
+  short_title: Maury Island
+  heading_title: Why Maury Island Still Divides Readers
+prev_link:
+  basename: Washington_a27a66_maury_island_claims_f9fc93_maury_b25_crash_rumo_538c77
+  title: B 25 rumours | Maury Island
+  permalink: /b-25-rumours/
+  short_title: B 25 rumours
+  heading_title: Did the B 25 crash prove a cover up?
+header:
+  og_image: /assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-1-social.jpg
+  preview_image: /assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-1.webp
+image: /assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The alleged debris that fell from the sky near [Maury Island]({{ 'maury-island/' | relative_url }}) was always the strongest part of the story. Witnesses could be mistaken, rumours could spread, and memories could change, but physical fragments seemed like something investigators could actually test. If unusual material had genuinely rained down from a mysterious aerial object in Puget Sound in June 1947, it would have provided rare tangible evidence at the very start of the modern UFO era.
+
+
+<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-1-light.svg" | relative_url }}" alt="Debris claims illustration 1" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Instead, the debris became one of the main reasons many researchers later concluded that the case was weak. Accounts of the material changed over time, the chain of custody was poor, and investigators increasingly described the fragments as ordinary industrial slag, scrap metal or pumice-like rock rather than anything exotic. Even some UFO researchers who remained interested in Maury Island's cultural importance regarded the physical evidence as deeply compromised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+
+## What witnesses said fell onto the boat
+
+Harold Dahl's original account described six doughnut-shaped objects over Puget Sound. One supposedly appeared distressed or unstable and began releasing debris. According to later retellings, the material included dark fragments, lightweight pieces and hot slag-like matter that struck the boat. Dahl claimed the falling debris damaged equipment, injured his son and killed the family dog. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Maury Island incidentThe pair claimed that the events had occurred on June 21, 1947. The incident is widely regarded as a hoax, even by b...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vashonbeachcomber.com">[Vashon-Maury Island Beachcomber]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vashonbeachcomber.com</span><span class="citation-popover-title">time again 75th anniversary of the maury island incident</span><span class="citation-popover-snippet">Vashon-Maury Island BeachcomberTime &amp; Again: 75th Anniversary of The Maury Island Incident22 Jun 2022 — One of the craft descended to low...</span></span></span>
+
+The debris story mattered because it moved the case beyond a simple sighting report. Instead of asking whether someone had misidentified an object in the sky, investigators were supposedly dealing with physical remains that could be collected and examined.
+
+Yet even at this stage there were problems. The descriptions were inconsistent. Some versions emphasised molten metal. Others described paper-like fragments. Later accounts introduced larger quantities of slag-like material. The more the story circulated through UFO publications, newspaper reports and retellings, the less clear it became exactly what had fallen and how much of it had been recovered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/the-maury-island-incident-1947-the-forgotten-spark-of-the-ufo-obsession/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia - Unlocking New Realities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">the maury island incident 1947 the forgotten spark of the ufo obsession</span><span class="citation-popover-snippet">UAPedia - Unlocking New RealitiesThe Maury Island Incident, 1947: The Forgotten Spark of the UFO...November 18, 2025 — The 1947 Maury Is...</span><span class="citation-popover-meta">Published: November 18, 2025</span></span></span>
+
+That ambiguity became crucial because extraordinary claims about physical evidence normally become stronger when details converge. In the Maury Island case, the opposite happened.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G1AohZbtkcE" title="Kelso mineral sample: &quot;UFO Lava?&quot; (UPDATE)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G1AohZbtkcE" target="_blank" rel="noopener noreferrer">Kelso mineral sample: &quot;UFO Lava?&quot; (UPDATE)</a></p><p class="youtube-embed-meta">Channel: wbeaty &middot; Views: 38.7K &middot; Uploaded: April 2007 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G1AohZbtkcE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G1AohZbtkcE">Open on YouTube</a></p></div></div></div>
+
+## How the fragments were described later
+
+As investigators and later writers examined the story, the alleged debris increasingly looked ordinary rather than mysterious.
+
+One of the most frequently cited sceptical findings came from the official investigation, which concluded that the material consisted of common debris gathered locally. HistoryLink's summary of the case states that the recovered fragments were "bits of scrap and pumice from a Maury Island beach" and notes that investigators regarded the flying-saucer story as fabricated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+
+This matters because pumice and industrial waste can superficially resemble something unusual. Pumice is lightweight, porous and can appear strange to non-specialists. Industrial slag, a glassy waste product left over from metal smelting and heavy industry, can also look unfamiliar, especially when found in irregular chunks.
+
+The Pacific Northwest of the 1940s was hardly an environment where such material would have been impossible to obtain. Ports, industrial sites, maritime activity and wartime manufacturing had left large amounts of scrap and waste material across the region. Finding unusual-looking fragments was not, by itself, evidence of a crashed craft or unknown technology.
+
+Later retellings occasionally tried to restore mystery by suggesting the material had never been conclusively identified. Some accounts described fragments as lava-like or meteoric. Others referred to dark rocks with gas pockets and crystalline interiors. But these descriptions generally point toward familiar geological or industrial materials rather than engineered components from an unknown vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historicmysteries.com/unexplained-mysteries/maury-island-incident/28783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicmysteries.com">[Historic Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicmysteries.com</span><span class="citation-popover-title">maury island incident</span><span class="citation-popover-snippet">Historic MysteriesThe Maury Island Incident: Debris from a UFO?19 Nov 2022 — In 1947 witnesses saw a UFO explode in mid-air. The “Maury I...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vashonbeachcomber.com">[Vashon-Maury Island Beachcomber]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vashonbeachcomber.com</span><span class="citation-popover-title">time again 75th anniversary of the maury island incident</span><span class="citation-popover-snippet">Vashon-Maury Island BeachcomberTime &amp; Again: 75th Anniversary of The Maury Island Incident22 Jun 2022 — One of the craft descended to low...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/isizjCOkppo" title="The Maury Island Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=isizjCOkppo" target="_blank" rel="noopener noreferrer">The Maury Island Incident</a></p><p class="youtube-embed-meta">Channel: Pretty Gritty Tours &middot; Views: 11.3K &middot; Uploaded: April 2022 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=isizjCOkppo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=isizjCOkppo">Open on YouTube</a></p></div></div></div>
+
+## Why the slag explanation became persuasive
+
+The slag explanation gained traction for several reasons beyond simple scepticism.
+
+First, there was no verified laboratory result showing unusual composition. No surviving analysis demonstrated exotic alloys, unknown isotopes or technology beyond contemporary manufacturing. For a case famous because of its alleged physical evidence, that absence is striking.
+
+Second, descriptions of the debris fit ordinary slag surprisingly well. Slag often contains bubbles, cavities and irregular textures created by industrial heating and cooling processes. Witnesses unfamiliar with its origin can easily describe it as volcanic, melted or otherworldly.
+
+Third, some reports suggested large quantities of material were present. One difficulty with that claim is practical: if significant amounts of debris had truly fallen from an unknown craft over a populated waterway, investigators should have been able to preserve, catalogue and independently examine substantial samples. Instead, the surviving record is fragmented and inconsistent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://datalaneexpress.com/tips_menu_010.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datalaneexpress.com">[datalaneexpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datalaneexpress.com</span><span class="citation-popover-title">During this time, another round shaped object appeared, the first</span><span class="citation-popover-snippet">Fish Tips Article #10 The Maury Island UFO CaseNear Maury Island, &quot;Crisman&quot; found the beach was covered with an estimated 20 tons of slag...</span></span></span>
+
+The strongest physical-evidence UFO cases usually become stronger when more people handle the evidence. Maury Island moved in the opposite direction. The more attention the fragments received, the less convincing they appeared.
+
+
+<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-2-light.svg" | relative_url }}" alt="Debris claims illustration 2" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why chain of custody matters here
+
+Chain of custody is a simple idea with major consequences. It means knowing exactly where an object came from, who collected it, who handled it afterwards and whether it could have been altered or substituted.
+
+Maury Island fails badly on this standard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historicmysteries.com/unexplained-mysteries/maury-island-incident/28783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicmysteries.com">[historicmysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicmysteries.com</span><span class="citation-popover-title">maury island incident</span><span class="citation-popover-snippet">Historic MysteriesThe Maury Island Incident: Debris from a UFO?19 Nov 2022 — In 1947 witnesses saw a UFO explode in mid-air. The “Maury I...</span></span></span>
+
+The debris did not move directly from a documented recovery site into controlled scientific examination. Instead, it passed through multiple hands while the story itself was changing. Witnesses, intermediaries, civilian investigators and military personnel all became part of the narrative. By the time broader public attention arrived, there was no clean record proving that any particular fragment unquestionably originated from the alleged incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+
+This weakness becomes even more important because the case quickly accumulated dramatic side stories. Kenneth Arnold became involved. Army Air Forces intelligence officers examined material connected with the case. Two officers later died in a B-25 crash while returning from [Washington]({{ 'why-washington-shaped-ufo-history/' | relative_url }}). Those events created an impression of hidden significance.
+
+But dramatic events surrounding evidence are not the same thing as evidence itself.
+
+A contaminated chain of custody means investigators cannot reliably answer basic questions:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Which fragments actually came from the reported incident?
+* Which pieces were collected later?
+* Were samples mixed together?
+* Did different witnesses describe different materials?
+* Were some fragments simply gathered from local beaches or industrial sources?
+
+</div>
+
+Once those questions become unanswerable, the physical evidence loses much of its value.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hvz8yjZngmc" title="TOSC -Shadows Over Puget Sound: The Maury Island UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hvz8yjZngmc" target="_blank" rel="noopener noreferrer">TOSC -Shadows Over Puget Sound: The Maury Island UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Highline Heritage Museum &middot; Views: 311 &middot; Uploaded: April 2025 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hvz8yjZngmc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hvz8yjZngmc">Open on YouTube</a></p></div></div></div>
+
+## The problem for believers and sceptics alike
+
+One reason Maury Island remains interesting is that both believers and sceptics have had to grapple with the debris problem.
+
+For sceptics, the fragments are a major reason the case is often described as a hoax. Edward J. Ruppelt, who later headed the Air Force's Project Blue Book investigation programme, famously called Maury Island the "dirtiest hoax" in UFO history. The alleged physical evidence played a central role in that judgement because it failed to withstand scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofyi.blogspot.com/2009/09/ufo-fyi-wtf-1947-maury-island-charade.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofyi.blogspot.com">[ufofyi.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofyi.blogspot.com</span><span class="citation-popover-title">ufo fyi wtf 1947 maury island charade</span><span class="citation-popover-snippet">Edward Ruppelt of Project Blue Book, the Maury Island incident was the &quot;dirtiest hoax in UFO history.&quot; Years later Crisman&#x27;s name...Read...</span></span></span>
+
+For UFO researchers who do not accept the hoax interpretation outright, the debris remains frustrating rather than persuasive. The material was never documented well enough to support extraordinary conclusions. Even writers who regard Maury Island as historically important usually acknowledge that the fragments themselves provide little firm support for claims of unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/the-maury-island-incident-1947-the-forgotten-spark-of-the-ufo-obsession/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia - Unlocking New Realities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">the maury island incident 1947 the forgotten spark of the ufo obsession</span><span class="citation-popover-snippet">UAPedia - Unlocking New RealitiesThe Maury Island Incident, 1947: The Forgotten Spark of the UFO...November 18, 2025 — The 1947 Maury Is...</span><span class="citation-popover-meta">Published: November 18, 2025</span></span></span>
+
+In practical terms, the debris is not what keeps the story alive. The case survives because of its place in Washington's 1947 "summer of saucers", its connection to Kenneth Arnold, the later "men in black" mythology and the fatal aircraft crash. The physical fragments, which should have been the strongest evidence, ended up being among the weakest parts of the entire affair.
+
+## What the slag problem says about the wider case
+
+The debris controversy illustrates a broader lesson about Maury Island. The case became famous because it seemed to offer everything UFO investigators wanted: witnesses, injuries, recovered material, official interest and mystery.
+
+Yet when researchers look closely at the physical evidence, the foundation becomes unstable. The alleged fragments were never securely documented, later descriptions increasingly matched ordinary slag and scrap material, and the chain of custody was too poor to support extraordinary conclusions. HistoryLink's summary that the debris consisted of scrap and pumice remains one of the most direct explanations ever attached to the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+
+That does not erase Maury Island's place in Washington UFO history. It remains a formative story and an important piece of regional folklore. But as evidence, the debris largely points away from a mysterious craft and toward a mixture of local material, unreliable handling and a story that grew more elaborate as it spread. The fragments that were supposed to prove the case instead became one of the strongest reasons to doubt it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+
+
+<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-3-light.svg" | relative_url }}" alt="Debris claims illustration 3" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was the Maury Island debris ever convincing?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Discusses physical evidence claims and the Maury Island debris story.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Addresses standards of evidence and physical-trace claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+        </h4>
+        <p class="fr-book-author">By Curtis Peebles</p>
+        
+        <p class="fr-book-desc">Provides skeptical historical context for debris controversies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming of the Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming of the Saucers">The Coming of the Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Kenneth Arnold, Ray Palmer</p>
+        
+        <p class="fr-book-desc">Covers the alleged debris and witness narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: historylink.org  
+   Link: [https://www.historylink.org/File/2068](https://www.historylink.org/File/2068)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</p></details>
+   Published: June 21, 1947  
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Maury_Island_incident](https://en.wikipedia.org/wiki/Maury_Island_incident)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maury Island incidentThe pair claimed that the events had occurred on June 21, 1947. The incident is widely regarded as a hoax, even by b...</p></details>
+   Published: June 21, 1947  
+
+3. <a id="endnote-3"></a>
+   Source: uapedia.ai  
+   Title: the maury island incident 1947 the forgotten spark of the ufo obsession  
+   Link: [https://uapedia.ai/wiki/the-maury-island-incident-1947-the-forgotten-spark-of-the-ufo-obsession/](https://uapedia.ai/wiki/the-maury-island-incident-1947-the-forgotten-spark-of-the-ufo-obsession/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPedia - Unlocking New RealitiesThe Maury Island Incident, 1947: The Forgotten Spark of the UFO...November 18, 2025 — The 1947 Maury Is...</p></details>
+   Published: November 18, 2025  
+
+4. <a id="endnote-4"></a>
+   Source: datalaneexpress.com  
+   Title: During this time, another round shaped object appeared, the first  
+   Link: [https://datalaneexpress.com/tips_menu_010.html](https://datalaneexpress.com/tips_menu_010.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fish Tips Article #10 The Maury Island UFO CaseNear Maury Island, &quot;Crisman&quot; found the beach was covered with an estimated 20 tons of slag...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: ufofyi.blogspot.com  
+   Title: ufo fyi wtf 1947 maury island charade  
+   Link: [https://ufofyi.blogspot.com/2009/09/ufo-fyi-wtf-1947-maury-island-charade.html](https://ufofyi.blogspot.com/2009/09/ufo-fyi-wtf-1947-maury-island-charade.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Edward Ruppelt of Project Blue Book, the Maury Island incident was the &quot;dirtiest hoax in UFO history.&quot; Years later Crisman&#x27;s name...Read...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: vashonbeachcomber.com  
+   Title: time again 75th anniversary of the maury island incident  
+   Link: [https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/](https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vashon-Maury Island BeachcomberTime &amp; Again: 75th Anniversary of The Maury Island Incident22 Jun 2022 — One of the craft descended to low...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: historicmysteries.com  
+   Title: maury island incident  
+   Link: [https://www.historicmysteries.com/unexplained-mysteries/maury-island-incident/28783/](https://www.historicmysteries.com/unexplained-mysteries/maury-island-incident/28783/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic MysteriesThe Maury Island Incident: Debris from a UFO?19 Nov 2022 — In 1947 witnesses saw a UFO explode in mid-air. The “Maury I...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: ripleys.com  
+   Title: maury island ufo  
+   Link: [https://www.ripleys.com/stories/maury-island-ufo](https://www.ripleys.com/stories/maury-island-ufo)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Maury Island to Burien: Washington&#x27;s UFO Craze...15 Oct 2018 — One of the six Maury Island UFOs struggled to maintain flight before...</p></details>
+
+### Additional References
+
+9. <a id="endnote-9"></a>
+   Source: x.com  
+   Link: [https://x.com/Oeming/status/1615851531676581888](https://x.com/Oeming/status/1615851531676581888)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>OemingWhich one of these guys is Harold Dahl and which is Fred Crisman of the Maury Island incident? I think history has them confused or...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: museumofflight.org  
+   Link: [https://www.museumofflight.org/exhibits-and-events/calendar-of-events/8036/the-maury-island-incident](https://www.museumofflight.org/exhibits-and-events/calendar-of-events/8036/the-maury-island-incident)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Maury Island IncidentBased on the incredible and often forgotten story of Harold Dahl, who on June 21, 1947, alleged a UFO sighting o...</p></details>
+   Published: June 21, 1947  
+
+11. <a id="endnote-11"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=isizjCOkppo](https://www.youtube.com/watch?v=isizjCOkppo)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Maury Island IncidentWhat happened to the debris that supposedly fell on the boat? Did a veterinarian examine the dead dog? What abou...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: crystalinks.com  
+   Link: [https://www.crystalinks.com/mauryisland1947.html](https://www.crystalinks.com/mauryisland1947.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The next morning, Dahl reported, a man arrived at his home and invited him to breakfast at a...Read more...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: reddit.com  
+   Title: the maury island incident refers to claims made  
+   Link: [https://www.reddit.com/r/alien/comments/104aalr/the_maury_island_incident_refers_to_claims_made/](https://www.reddit.com/r/alien/comments/104aalr/the_maury_island_incident_refers_to_claims_made/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Fred...The Mary island incident in 1947 has a lot of things like Roswell there were six UFOs that the claims they saw six not one tha...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: seattlepi.com  
+   Title: UFO debris may be lava or meteor chunk 1235325  
+   Link: [https://www.seattlepi.com/local/article/UFO-debris-may-be-lava-or-meteor-chunk-1235325.php](https://www.seattlepi.com/local/article/UFO-debris-may-be-lava-or-meteor-chunk-1235325.php)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO debris&#x27; may be lava or meteor chunk25 Apr 2007 — &quot;To me it&#x27;s very interesting that at the very impact site of the crash, we found sl...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: vocal.media  
+   Title: Dahl rushes home, tells his business partner Fred Crisman about it. Crisman  
+   Link: [https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate](https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Maury Island Enigma: UFOs, Men in Black, and the...One starts acting up, spewing molten slag and hot metal that rains down...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: youtube.com  
+   Title: TOSC -Shadows Over Puget Sound: The Maury Island UFO Mystery  
+   Link: [https://www.youtube.com/watch?v=Hvz8yjZngmc](https://www.youtube.com/watch?v=Hvz8yjZngmc)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before Roswell - The Eerie Tale of Maury Island (with Dean Bertram)...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: x.com  
+   Title: "Fred John Dahl"  
+   Link: [https://x.com/search?f=live&q=Fred+John+Dahl](https://x.com/search?f=live&q=Fred+John+Dahl)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Results on X | Live Posts &amp; Updates... slag that scorched Dahl&#x27;s arm and killed the family dog Sparky... Ruppelt characterized the story...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: seattlesouthside.com  
+   Title: maury island ufo incident mural  
+   Link: [https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/](https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some slag burns Charles on his arm. They&#x27;re so frightened that they run...</p></details>

@@ -1,0 +1,854 @@
+---
+level: 3
+basename: Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842
+parent_basename: Arizona_104fd3_kingman_crash_legend_18dca6
+child_basenames: []
+sibling_basenames:
+- Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8
+tags:
+- arizona
+- kingman-legend
+- atomic-test-link
+keywords:
+- arizona
+- kingman-legend
+- atomic-test-link
+affiliate_category: arizona
+show_ads: true
+description: Cold War nuclear testing near Nevada shaped the military backdrop that made the Kingman story seem plausible to many readers.
+hero_summary: Cold War nuclear testing near Nevada shaped the military backdrop that made the Kingman story seem plausible to many readers.
+layout: default
+permalink: /atomic-test-link/
+sidebar_expanded_urls:
+- /why-arizona-became-a-ufo-state/
+- /kingman-legend/
+nav_short_title: Atomic Test Link
+title: Did Nuclear Testing Feed the Kingman UFO Legend?
+title_full: Did Nuclear Testing Feed the Kingman UFO Legend? | Kingman Legend
+display_title_short: Atomic Test Link
+display_title: Atomic Test Link
+heading_title: Did Nuclear Testing Feed the Kingman UFO Legend?
+page_heading_title: Did Nuclear Testing Feed the Kingman UFO Legend?
+source_count: 24
+infographic_count: 3
+planned_sections:
+- The May 1953 test schedule and military activity
+- Why atomic era secrecy amplified UFO rumours
+- What the timeline proves and what it does not
+focal_unit_type: event_time_window
+topic_lens: historical_comparative
+topic_granularity: bounded_topic
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-05-30 14:59:35'
+parent_title: Is the Kingman UFO Crash Story Credible? | Arizona UFOs
+parent_permalink: /kingman-legend/
+parent_nav_short_title: Kingman Legend
+parent_heading_title: Is the Kingman UFO Crash Story Credible?
+ancestor_links:
+- basename: Arizona_104fd3
+  title: Arizona UFOs
+  permalink: /why-arizona-became-a-ufo-state/
+  short_title: Arizona UFOs
+- basename: Arizona_104fd3_kingman_crash_legend_18dca6
+  title: Kingman Legend | Why Arizona Became a UFO State
+  permalink: /kingman-legend/
+  short_title: Kingman Legend
+  heading_title: Is the Kingman UFO Crash Story Credible?
+breadcrumb_links:
+- basename: Arizona_104fd3
+  title: Arizona UFOs
+  permalink: /why-arizona-became-a-ufo-state/
+  short_title: Arizona UFOs
+- basename: Arizona_104fd3_kingman_crash_legend_18dca6
+  title: Kingman Legend | Why Arizona Became a UFO State
+  permalink: /kingman-legend/
+  short_title: Kingman Legend
+  heading_title: Is the Kingman UFO Crash Story Credible?
+sibling_links:
+- basename: Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8
+  title: Stansel Claims | Kingman Legend
+  permalink: /stansel-claims/
+  short_title: Stansel Claims
+  heading_title: Why Arthur Stansel's Story Kept Changing
+up_link:
+  basename: Arizona_104fd3_kingman_crash_legend_18dca6
+  title: Kingman Legend | Why Arizona Became a UFO State
+  permalink: /kingman-legend/
+  short_title: Kingman Legend
+  heading_title: Is the Kingman UFO Crash Story Credible?
+next_link:
+  basename: Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8
+  title: Stansel Claims | Kingman Legend
+  permalink: /stansel-claims/
+  short_title: Stansel Claims
+  heading_title: Why Arthur Stansel's Story Kept Changing
+header:
+  og_image: /assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-1-social.jpg
+  preview_image: /assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-1.webp
+image: /assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-1-social.jpg
+---
+
+## Introduction
+
+“Operation Upshot‑Knothole and the Kingman crash timeline” is about the place and timing that often gets woven into the **Kingman, [Arizona]({{ 'why-arizona-became-a-ufo-state/' | relative_url }}) UFO crash legend** — namely, the spring 1953 **Upshot‑Knothole nuclear test series** and how its schedule compares with the dates cited in the alleged Kingman crash story. In UFO folklore this overlap is sometimes used *to suggest* that atomic testing, military secrecy, or unusual high‑altitude activity might explain why people later believed a mysterious craft was recovered near Kingman, but a careful comparison of timelines does not substantiate any compelling causal link. What the record actually shows is that a series of nuclear detonations in Nevada in mid‑May 1953 was real and well‑documented, whereas the purported Kingman crash narrative hinges on a single retrospective witness statement made twenty years later without contemporary documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearweaponarchive.org">[Nuclear Weapon Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearweaponarchive.org</span><span class="citation-popover-title">Nuclear Weapon Archive Operation Upshot-Knothole</span><span class="citation-popover-snippet">Nuclear Weapon ArchiveOperation Upshot-KnotholeJune 19, 2002...</span><span class="citation-popover-meta">Published: June 19, 2002</span></span></span>
+
+
+<img src="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-1-light.svg" | relative_url }}" alt="Atomic Test Link illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+## The May 1953 Test Schedule and Military Activity
+
+**Operation Upshot‑Knothole** was a U.S. atmospheric nuclear testing series conducted primarily at the Nevada Test Site beginning in March 1953 and concluding in early June of that year. These tests were part of broader Cold War weapons development and civil defence programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Operation Upshot–Knothole</span><span class="citation-popover-snippet">Operation Upshot–Knothole</span></span></span>
+
+* The series comprised **11 individual shots** between **17 March and 4 June 1953**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sonicbomb.com/upshot.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sonicbomb.com">[Sonic Bomb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sonicbomb.com</span><span class="citation-popover-title">Sonic Bomb.:Sonic Bomb</span><span class="citation-popover-snippet">Sonic Bomb.:SonicBomb:. - Operation Upshot-Knothole 1953...</span></span></span>
+* Key detonations in *May* included:
+**Encore** on **8 May**
+**Harry** on **19 May**, a 32‑kiloton tower shot known for heavy fallout
+**Grable** on **25 May**, the first nuclear artillery shell ever fired
+
+These events were witnessed by thousands of troops in ground manoeuvres and by high‑ranking officials, and were publicised at the time as part of the U.S. defence effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ahf.nuclearmuseum.org/ahf/history/timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Timeline</span><span class="citation-popover-snippet">Nuclear MuseumTimeline - Nuclear Museum...</span></span></span>
+
+The tests took place roughly **300–400 miles northwest** of Kingman across the state border in Nevada. They involved significant military traffic and posed genuine radiation concerns for “downwinders” (communities downwind of the detonation sites), but there is no reliable evidence that any of these specific tests produced unusual craft, debris, or crash phenomena in Arizona. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearweaponarchive.org">[Nuclear Weapon Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearweaponarchive.org</span><span class="citation-popover-title">Nuclear Weapon Archive Operation Upshot-Knothole</span><span class="citation-popover-snippet">Nuclear Weapon ArchiveOperation Upshot-KnotholeJune 19, 2002...</span><span class="citation-popover-meta">Published: June 19, 2002</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uNhebXK3f0g" title="Operation Upshot-Knothole - Nuclear Test Film (1953)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uNhebXK3f0g" target="_blank" rel="noopener noreferrer">Operation Upshot-Knothole - Nuclear Test Film (1953)</a></p><p class="youtube-embed-meta">Channel: Nuclear Vault &middot; Views: 68.8K &middot; Uploaded: June 2010 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uNhebXK3f0g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uNhebXK3f0g">Open on YouTube</a></p></div></div></div>
+
+## Why Atomic‑Era Secrecy Amplified UFO Rumours
+
+Cold War nuclear testing was a secretive, high‑profile context that fuelled public anxiety in the early 1950s. Atmospheric tests like Upshot‑Knothole were dramatic visual events — mushroom clouds, shockwaves and bright flashes were seen for miles — and were often conducted without detailed immediate public explanation. This environment contributed to a broader cultural backdrop in which unexplained aerial phenomena were taken seriously and associated in the public imagination with government activity.
+
+In the UFO literature, this backdrop is why some researchers *posit* a connection: the dates many retellings of the Kingman story assign (commonly **20–21 May 1953**) sit very close to the **19 May Harry** detonation. Critics of the Kingman narrative counter that proximity in time **does not by itself verify a crash or retrieval**; it simply shows that both claims reference a period when something unusual was already on the public radar because of atomic testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuclearweaponarchive.org">[Nuclear Weapon Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuclearweaponarchive.org</span><span class="citation-popover-title">Nuclear Weapon Archive Operation Upshot-Knothole</span><span class="citation-popover-snippet">Nuclear Weapon ArchiveOperation Upshot-KnotholeJune 19, 2002...</span><span class="citation-popover-meta">Published: June 19, 2002</span></span></span>
+
+It was also a period of heightened military secrecy regulation following the 1952 **Robertson Panel**, which had encouraged the Air Force to dismiss and contain UFO reports as a matter of national security policy rather than public openness — factors that later commentators have said made anecdotal UFO claims easier to hold as mysteries and harder to verify with records that would otherwise be accessible. (This policy context is part of later UFO historiography but does *not* itself confirm the specific Kingman claims.)
+
+
+<img src="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-2-light.svg" | relative_url }}" alt="Atomic Test Link illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What the Timeline Proves and What It Does Not
+
+**What the timeline shows clearly:**
+
+* A confirmed sequence of U.S. nuclear tests took place in late spring 1953, including on **19 May** and **25 May**, spaced roughly six days apart. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ahf.nuclearmuseum.org/ahf/history/timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Timeline</span><span class="citation-popover-snippet">Nuclear MuseumTimeline - Nuclear Museum...</span></span></span>
+* These tests were part of routine military weapons development, involved scheduled observer programmes, and were publicly recorded in official archives and histories.
+
+**What it does *not* show:**
+
+* *No official test record documents* any aerial vehicle crash, unknown object recovery, or associated transport of materials or personnel to or from Kingman, Arizona. The publicly accessible timeline and nuclear test records make no reference to such events.
+* The Kingman crash dates most often cited in UFO accounts are derived from **retrospective testimony** rather than contemporary military reports or newspaper archives from May 1953. Contemporary regional newspapers from that week make no published mention of a UFO crash or major military recovery operation.
+* There is no corroborated military log, base communication, or unclassified Air Force record tying the Kingman events to Upshot‑Knothole activity.
+
+In other words, while the **chronological overlap** gives the UFO claim a veneer of plausibility for some readers, the actual historical testing schedule does not substantiate a direct causal event sequence connecting Upshot‑Knothole detonations with any confirmed crash or mysterious object near Kingman.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KC9tC_XarjE" title="The 1953 Kingman UFO Crash Retrieval" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KC9tC_XarjE" target="_blank" rel="noopener noreferrer">The 1953 Kingman UFO Crash Retrieval</a></p><p class="youtube-embed-meta">Channel: Megalithic Marvels (Derek Olson) &middot; Views: 14.6K &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KC9tC_XarjE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KC9tC_XarjE">Open on YouTube</a></p></div></div></div>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NVuqZhgemoE" title="Ancient Aliens: UNDERCOVER ALIEN CRASHES | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NVuqZhgemoE" target="_blank" rel="noopener noreferrer">Ancient Aliens: UNDERCOVER ALIEN CRASHES | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 359.7K &middot; Uploaded: June 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NVuqZhgemoE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NVuqZhgemoE">Open on YouTube</a></p></div></div></div>
+
+## How the Legend Grew Around Dates Rather Than Documents
+
+Part of the reason this timeline persists is that the **specific test dates** (especially *19 May 1953*) create an anchor that storytellers can use to make the Kingman claim *sound* precise. However:
+
+* The Kingman narrative’s principal source — a later affidavit attributed to one Arthur Stansel (often under the alias “Fritz Werner”) — links his claimed assignment to “Operation Upshot‑Knothole” without providing supporting military paperwork from 1953. Investigators outside UFO circles have repeatedly noted the absence of independent military documentation for such a tasking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.explorekingman.com/blog-1953-kingman-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorekingman.com">[Explore Kingman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorekingman.com</span><span class="citation-popover-title">blog 1953 kingman ufo crash</span><span class="citation-popover-snippet">Explore KingmanKingman UFO Crash of 1953December 26, 2025...</span><span class="citation-popover-meta">Published: December 26, 2025</span></span></span>
+* There are no contemporaneous press reports, base orders, or authorised mission logs from Indian Springs Air Force Base or other nearby facilities showing a classified transport to a crash site. This absence is consistent with how UFO case legends generally emerge long after the fact, especially in the absence of archival leaks.
+
+Thus, the **timeline connection** exists as part of the **mythos** of the Kingman story — a narrative link anchored in two proximate dates — but the historical record of the **Upshot‑Knothole test series** provides no independent verification of the purported crash or retrieval episode.
+
+In summary, the **Upshot‑Knothole nuclear test timeline** explains *why* May 1953 is repeatedly cited in the Kingman UFO crash legend and shows the real Cold War backdrop that made speculation about secret flights, experiments and downed objects feel plausible to some. At the same time, the tangible **evidence gap** — the lack of substantive documentation outside retrospective testimony — means that the timeline’s proximity alone does not confirm the core alleged incident at Kingman.
+
+
+<img src="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-3-light.svg" | relative_url }}" alt="Atomic Test Link illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_upshot_knothole_king_023842-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Did Nuclear Testing Feed the Kingman UFO Legend?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T5J7mAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
+        </h4>
+        <p class="fr-book-author">By Richard M. Dolan</p>
+        
+        <p class="fr-book-desc">Links UFO stories with government and military secrecy.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+        </h4>
+        <p class="fr-book-author">By Annie Jacobsen</p>
+        
+        <p class="fr-book-desc">Explores how secret military programs fuel UFO narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+        </h4>
+        <p class="fr-book-author">By Eric Schlosser</p>
+        
+        <p class="fr-book-desc">Provides rich context on nuclear weapons culture and Cold War secrecy.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+        </h4>
+        <p class="fr-book-author">By Don Berliner</p>
+        
+        <p class="fr-book-desc">Provides comparison material for Kingman-style claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atomic-test-link-did-nuclear-testing-feed-the-kingman-ufo-legend-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  if (!sections.length) return;
+  function inferMarket(available) {
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      return window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: 'EBAY_US'
+      });
+    }
+    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
+    return available[0];
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-market-init') === '1') return;
+    section.setAttribute('data-ebay-market-init', '1');
+    var select = section.querySelector('[data-ebay-market-select]');
+    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
+    if (!select || panels.length < 2) return;
+    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
+    function selectMarket(marketId, persist) {
+      panels.forEach(function (panel) {
+        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
+        panel.hidden = !active;
+      });
+      if (available.indexOf(marketId) >= 0) select.value = marketId;
+      var option = select.options[select.selectedIndex];
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+        label.textContent = option ? option.text : marketId;
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+        flag.className = flagClass(marketId);
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+        label.textContent = option ? option.text : marketId;
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      });
+      if (persist) {
+        try {
+          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
+        } catch (err) {}
+      }
+      closeMenu(section);
+    }
+    select.addEventListener('change', function () {
+      selectMarket(select.value, true);
+    });
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    selectMarket(inferMarket(available), false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: nuclearweaponarchive.org  
+   Title: Nuclear Weapon Archive Operation Upshot-Knothole  
+   Link: [https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html](https://www.nuclearweaponarchive.org/Usa/Tests/Upshotk.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Weapon ArchiveOperation Upshot-KnotholeJune 19, 2002...</p></details>
+   Published: June 19, 2002  
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: Operation Upshot–Knothole  
+   Link: [https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole](https://en.wikipedia.org/wiki/Operation_Upshot%E2%80%93Knothole)  
+
+3. <a id="endnote-3"></a>
+   Source: sonicbomb.com  
+   Title: Sonic Bomb.:Sonic Bomb  
+   Link: [https://www.sonicbomb.com/upshot.html](https://www.sonicbomb.com/upshot.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic Bomb.:SonicBomb:. - Operation Upshot-Knothole 1953...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: ahf.nuclearmuseum.org  
+   Title: Nuclear Museum Timeline  
+   Link: [https://ahf.nuclearmuseum.org/ahf/history/timeline](https://ahf.nuclearmuseum.org/ahf/history/timeline)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear MuseumTimeline - Nuclear Museum...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: explorekingman.com  
+   Title: blog 1953 kingman ufo crash  
+   Link: [https://www.explorekingman.com/blog-1953-kingman-ufo-crash](https://www.explorekingman.com/blog-1953-kingman-ufo-crash)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore KingmanKingman UFO Crash of 1953December 26, 2025...</p></details>
+   Published: December 26, 2025  
+
+6. <a id="endnote-6"></a>
+   Source: mail.nuclearweaponarchive.org  
+   Link: [https://mail.nuclearweaponarchive.org/Usa/Tests/Upshotk.html](https://mail.nuclearweaponarchive.org/Usa/Tests/Upshotk.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A betatron was used for initiation. Upshot-Knothole Ruth Tower Stump (48 K) * * * Test: | Dixie Time: | 15:30 6 April...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: military-history.fandom.com  
+   Link: [https://military-history.fandom.com/wiki/Operation_Upshot-Knothole](https://military-history.fandom.com/wiki/Operation_Upshot-Knothole)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Upshot-Knothole | Military Wiki | FandomOPERATION UPSHOT-KNOTHOLE Sign In to Save Save Edit * History * Purge * Talk (0) iframe Operation...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=8Dil9iE67ak](https://www.youtube.com/watch?v=8Dil9iE67ak)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Upshot-Knothole - Nuclear Test Film (1953)...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: youtube.com  
+   Title: Operation Upshot-Knothole  
+   Link: [https://www.youtube.com/watch?v=uNhebXK3f0g](https://www.youtube.com/watch?v=uNhebXK3f0g)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atomic Bomb Test: Operation Upshot-Knothole Annie | Yucca Flat, Nevada (1953) | U.S. Army Footage...</p></details>
+
+### Additional References
+
+10. <a id="endnote-10"></a>
+   Source: osti.gov  
+   Link: [https://www.osti.gov/biblio/6380890](https://www.osti.gov/biblio/6380890)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technical report (Technical Report) | OSTI.GOVJanuary 14, 1982 — SHOTS ENCORE TO CLIMAX, THE FINAL FOUR TESTS OF THE UPSHOT-KNOTHOLE SERI...</p></details>
+   Published: January 14, 1982  
+
+11. <a id="endnote-11"></a>
+   Source: globalsecurity.org  
+   Link: [https://www.globalsecurity.org/wmd/ops/upshot-knothole-grable.htm](https://www.globalsecurity.org/wmd/ops/upshot-knothole-grable.htm)  
+
+12. <a id="endnote-12"></a>
+   Source: ufoinsight.com  
+   Title: The Kingman UFO Crash – A Discreet Downed UFO That Slipped Under The Radar?  
+   Link: [https://www.ufoinsight.com/ufos/cover-ups/kingman-ufo-crash](https://www.ufoinsight.com/ufos/cover-ups/kingman-ufo-crash)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJanuary 28, 2023 — THE KINGMAN UFO CRASH – A DISCREET DOWNED UFO THAT SLIPPED UNDER THE RADAR? By Marcus Lowth Image: Publishe...</p></details>
+   Published: January 28, 2023  
+
+13. <a id="endnote-13"></a>
+   Source: theufochronicles.com  
+   Title: The Kingman UFO Crash, Operation Upshot–Knothole and Experimental Radar  
+   Link: [https://www.theufochronicles.com/2020/02/the-kingman-ufo-crash-operation.html](https://www.theufochronicles.com/2020/02/the-kingman-ufo-crash-operation.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2020 — MONDAY, FEBRUARY 10, 2020 THE KINGMAN UFO CRASH, OPERATION UPSHOT–KNOTHOLE AND EXPERIMENTAL RADAR Spring 1953, the Ato...</p></details>
+   Published: February 3, 2020  
+
+14. <a id="endnote-14"></a>
+   Source: large.stanford.edu  
+   Title: 1: Upshot-Knothole Annie detonation. (  
+   Source: Wikimed  
+   Link: [https://large.stanford.edu/courses/2015/ph241/ukropina2/](https://large.stanford.edu/courses/2015/ph241/ukropina2/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Upshot-KnotholeMarch 14, 2015 — OPERATION UPSHOT-KNOTHOLE CONRAD UKROPINA March 14, 2015 SUBMITTED AS COURSEWORK FOR PH241, STANFORD UNIV...</p></details>
+   Published: March 14, 2015  
+
+15. <a id="endnote-15"></a>
+   Source: ufologie.patrickgross.org  
+   Title: Un témoin a signé une déclaration sous sermen  
+   Link: [https://ufologie.patrickgross.org/htm/kingman53f.htm](https://ufologie.patrickgross.org/htm/kingman53f.htm)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: crash allégué d&#x27;engin extraterrestre en 1953 à Kingman, ArizonaCRASH D&#x27;OVNI EN 1953 À KINGMAN, ARIZONA: Il a été p...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: ufology.patrickgross.org  
+   Title: One witness signed an affidavit. THE STORY  
+   Link: [https://www.ufology.patrickgross.org/htm/kingman53.htm](https://www.ufology.patrickgross.org/htm/kingman53.htm)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: May 20, 1953, Kingman Arizona alleged UFO crashMAY 20, 1953, KINGMAN ARIZONA ALLEGED UFO CRASH: It has been publishe...</p></details>
+   Published: May 20, 1953  
+
+17. <a id="endnote-17"></a>
+   Source: silverland.info  
+   Title: l incidente ufo di kingman  
+   Link: [https://www.silverland.info/documenti/l-incidente-ufo-di-kingman/](https://www.silverland.info/documenti/l-incidente-ufo-di-kingman/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;incidente UFO di Kingman - Il mondo degli UFOL&#x27;INCIDENTE UFO DI KINGMAN Image: UFO crash Kingman 1953UFO crash Kingman 1953 ❖ Premessa...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: military-history.fandom.com  
+   Title: Operation Upshot–Knothole  
+   Link: [https://military-history.fandom.com/wiki/Operation_Upshot%E2%80%93Knothole](https://military-history.fandom.com/wiki/Operation_Upshot%E2%80%93Knothole)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Upshot–Knothole | Military Wiki | FandomOPERATION UPSHOT–KNOTHOLE Sign In to Save Save Edit * History * Purge * Talk (0) iframe Operation...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: nukecompendium.com  
+   Title: operation upshot knothole  
+   Link: [https://nukecompendium.com/tests/operation-upshot-knothole/](https://nukecompendium.com/tests/operation-upshot-knothole/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Upshot-Knothole – NUCLEAR COMPENDIUMAugust 14, 2022 — OPERATION UPSHOT-KNOTHOLE – ANNIE – NANCY – RUTH – DIXIE – RAY – BADGER –...</p></details>
+   Published: August 14, 2022  

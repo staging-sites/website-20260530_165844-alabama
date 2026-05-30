@@ -1,0 +1,1022 @@
+{
+  "generated_at_utc": "2026-05-30T20:36:53.790164Z",
+  "summary": {
+    "total_pages_with_permalink": 899,
+    "visible_pages": 649,
+    "hidden_pages": 250,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "edge_samples": [
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Alaska_7288f7",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Arizona_104fd3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Arkansas_2f717f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "California_cf386e",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Colorado_d28817",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Connecticut_ec4da3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Delaware_5861e4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Florida_30c2d0",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Georgia_9113c6",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Hawaii_a1be95",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Idaho_18334c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Illinois_31b9d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Indiana_5d00be",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Iowa_08a48b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Kansas_48303f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Kentucky_e3b665",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Louisiana_b158e0",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Maine_8dc024",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Maryland_1ac107",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Massachusetts_d42990",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Michigan_5110b3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Minnesota_60590f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Mississippi_cba267",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Missouri_d961c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Montana_8d274f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Nebraska_e9c60b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Nevada_b93191",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "New_Hampshire_824569",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "New_Jersey_18255a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "New_Mexico_45551f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "New_York_c7ef6c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "North_Carolina_cd988f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "North_Dakota_0b6838",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Ohio_d318c1",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Oklahoma_86daa4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Oregon_07719a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Pennsylvania_dff756",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Rhode_Island_b30a18",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "South_Carolina_11d001",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "South_Dakota_ad4a41",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Tennessee_1f4d4c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Texas_98125d",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Utah_2ff606",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Vermont_835aef",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Virginia_027fb4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Washington_a27a66",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "West_Virginia_be1c72",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Wisconsin_52b248",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Wyoming_ed190c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d",
+        "to": "Alabama_d1f92d_index",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "to": "Alabama_d1f92d",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "to": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "to": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "to": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "to": "Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "to": "Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_ufo_festival_b0592a",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "to": "Alabama_d1f92d_fyffe_ufo_flap_086733_index",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "to": "Alabama_d1f92d",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "to": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "to": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "to": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "to": "Alabama_d1f92d_falkville_metal_man_0ea265_index",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "to": "Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "to": "Alabama_d1f92d_falkville_metal_man_0ea265_metal_man_polaroid_p_3ec386",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "to": "Alabama_d1f92d",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "to": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "to": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "to": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "to": "Alabama_d1f92d_alabama_blue_book_re_c26a14_auburn_1952_ufo_repo_9719e5",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "to": "Alabama_d1f92d_alabama_blue_book_re_c26a14_index",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "to": "Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "to": "Alabama_d1f92d",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "to": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "to": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "to": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "to": "Alabama_d1f92d_chiles_whitted_encou_2e50ce_index",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "to": "Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "to": "Alabama_d1f92d_chiles_whitted_encou_2e50ce_pilot_observations_a_d1c8b4",
+        "type": "child"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_ufo_festival_b0592a",
+        "to": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_ufo_festival_b0592a",
+        "to": "Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_ufo_festival_b0592a",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_ufo_festival_b0592a",
+        "to": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e",
+        "to": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e",
+        "to": "Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_ufo_festival_b0592a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e",
+        "to": "Alabama_d1f92d_fyffe_ufo_flap_086733",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a",
+        "to": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a",
+        "to": "Alabama_d1f92d_alabama_blue_book_re_c26a14_auburn_1952_ufo_repo_9719e5",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a",
+        "to": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91",
+        "to": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91",
+        "to": "Alabama_d1f92d_chiles_whitted_encou_2e50ce_pilot_observations_a_d1c8b4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91",
+        "to": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427",
+        "to": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427",
+        "to": "Alabama_d1f92d_falkville_metal_man_0ea265_metal_man_polaroid_p_3ec386",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427",
+        "to": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265_metal_man_polaroid_p_3ec386",
+        "to": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265_metal_man_polaroid_p_3ec386",
+        "to": "Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265_metal_man_polaroid_p_3ec386",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_falkville_metal_man_0ea265_metal_man_polaroid_p_3ec386",
+        "to": "Alabama_d1f92d_falkville_metal_man_0ea265",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14_auburn_1952_ufo_repo_9719e5",
+        "to": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14_auburn_1952_ufo_repo_9719e5",
+        "to": "Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14_auburn_1952_ufo_repo_9719e5",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_alabama_blue_book_re_c26a14_auburn_1952_ufo_repo_9719e5",
+        "to": "Alabama_d1f92d_alabama_blue_book_re_c26a14",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce_pilot_observations_a_d1c8b4",
+        "to": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "type": "parent"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce_pilot_observations_a_d1c8b4",
+        "to": "Alabama_d1f92d_chiles_whitted_encou_2e50ce_official_scientific_749c91",
+        "type": "sibling"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce_pilot_observations_a_d1c8b4",
+        "to": "Alabama_d1f92d",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alabama_d1f92d_chiles_whitted_encou_2e50ce_pilot_observations_a_d1c8b4",
+        "to": "Alabama_d1f92d_chiles_whitted_encou_2e50ce",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alabama_d1f92d",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Arizona_104fd3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Arkansas_2f717f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "California_cf386e",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Colorado_d28817",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Connecticut_ec4da3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Delaware_5861e4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Florida_30c2d0",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Georgia_9113c6",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Hawaii_a1be95",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Idaho_18334c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Illinois_31b9d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Indiana_5d00be",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Iowa_08a48b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Kansas_48303f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Kentucky_e3b665",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Louisiana_b158e0",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Maine_8dc024",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Maryland_1ac107",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Massachusetts_d42990",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Michigan_5110b3",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Minnesota_60590f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Mississippi_cba267",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Missouri_d961c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Montana_8d274f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Nebraska_e9c60b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Nevada_b93191",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "New_Hampshire_824569",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "New_Jersey_18255a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "New_Mexico_45551f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "New_York_c7ef6c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "North_Carolina_cd988f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "North_Dakota_0b6838",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Ohio_d318c1",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Oklahoma_86daa4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Oregon_07719a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Pennsylvania_dff756",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Rhode_Island_b30a18",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "South_Carolina_11d001",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "South_Dakota_ad4a41",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Tennessee_1f4d4c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Texas_98125d",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Utah_2ff606",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Vermont_835aef",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Virginia_027fb4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Washington_a27a66",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "West_Virginia_be1c72",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Wisconsin_52b248",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Wyoming_ed190c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_alaska_triangle_patt_2f5a4a",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_elmendorf_cold_war_s_aa6628",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_index",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_jal_1628_radar_case_0e3606",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7",
+        "to": "Alaska_7288f7_north_slope_2023_obj_5b8ca9",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_radar_case_0e3606",
+        "to": "Alaska_7288f7",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_radar_case_0e3606",
+        "to": "Alaska_7288f7_alaska_triangle_patt_2f5a4a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_radar_case_0e3606",
+        "to": "Alaska_7288f7_elmendorf_cold_war_s_aa6628",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_radar_case_0e3606",
+        "to": "Alaska_7288f7_north_slope_2023_obj_5b8ca9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_radar_case_0e3606",
+        "to": "Alaska_7288f7_jal_1628_radar_case_0e3606_faa_radar_analysis_j_9b0f59",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_radar_case_0e3606",
+        "to": "Alaska_7288f7_jal_1628_radar_case_0e3606_index",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_radar_case_0e3606",
+        "to": "Alaska_7288f7_jal_1628_radar_case_0e3606_pilot_visual_reports_6469df",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_jal_1628_radar_case_0e3606",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_triangle_patt_2f5a4a",
+        "to": "Alaska_7288f7",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_triangle_patt_2f5a4a",
+        "to": "Alaska_7288f7_elmendorf_cold_war_s_aa6628",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_triangle_patt_2f5a4a",
+        "to": "Alaska_7288f7_jal_1628_radar_case_0e3606",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_triangle_patt_2f5a4a",
+        "to": "Alaska_7288f7_north_slope_2023_obj_5b8ca9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_triangle_patt_2f5a4a",
+        "to": "Alaska_7288f7_alaska_triangle_patt_2f5a4a_boggs_flight_triangl_9337e1",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_triangle_patt_2f5a4a",
+        "to": "Alaska_7288f7_alaska_triangle_patt_2f5a4a_index",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_triangle_patt_2f5a4a",
+        "to": "Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_alaska_triangle_patt_2f5a4a",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_elmendorf_cold_war_s_aa6628",
+        "to": "Alaska_7288f7",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_elmendorf_cold_war_s_aa6628",
+        "to": "Alaska_7288f7_alaska_triangle_patt_2f5a4a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_elmendorf_cold_war_s_aa6628",
+        "to": "Alaska_7288f7_jal_1628_radar_case_0e3606",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_elmendorf_cold_war_s_aa6628",
+        "to": "Alaska_7288f7_north_slope_2023_obj_5b8ca9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_elmendorf_cold_war_s_aa6628",
+        "to": "Alaska_7288f7_elmendorf_cold_war_s_aa6628_alaska_radar_ufo_rep_c971ff",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_elmendorf_cold_war_s_aa6628",
+        "to": "Alaska_7288f7_elmendorf_cold_war_s_aa6628_elmendorf_1950_sight_21c8a3",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_elmendorf_cold_war_s_aa6628",
+        "to": "Alaska_7288f7_elmendorf_cold_war_s_aa6628_index",
+        "type": "child"
+      },
+      {
+        "from": "Alaska_7288f7_elmendorf_cold_war_s_aa6628",
+        "to": "Alaska_7288f7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alaska_7288f7_north_slope_2023_obj_5b8ca9",
+        "to": "Alaska_7288f7",
+        "type": "parent"
+      },
+      {
+        "from": "Alaska_7288f7_north_slope_2023_obj_5b8ca9",
+        "to": "Alaska_7288f7_alaska_triangle_patt_2f5a4a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_north_slope_2023_obj_5b8ca9",
+        "to": "Alaska_7288f7_elmendorf_cold_war_s_aa6628",
+        "type": "sibling"
+      },
+      {
+        "from": "Alaska_7288f7_north_slope_2023_obj_5b8ca9",
+        "to": "Alaska_7288f7_jal_1628_radar_case_0e3606",
+        "type": "sibling"
+      }
+    ]
+  }
+}

@@ -1,0 +1,925 @@
+---
+level: 2
+basename: Wyoming_ed190c_delayed_witness_acco_673359
+parent_basename: Wyoming_ed190c
+child_basenames:
+- Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f
+- Wyoming_ed190c_delayed_witness_acco_673359_index
+- Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767
+sibling_basenames:
+- Wyoming_ed190c_cheyenne_1955_blue_b_201157
+- Wyoming_ed190c_fe_warren_missile_cl_9ca37f
+- Wyoming_ed190c_wyoming_nuforc_clust_b43e6f
+tags:
+- wyoming
+- late-testimony
+keywords:
+- wyoming
+- late-testimony
+affiliate_category: wyoming
+show_ads: true
+description: Long-delayed accounts such as the Barrett story show why witness status can be compelling while late testimony remains hard to test.
+hero_summary: Long-delayed accounts such as the Barrett story show why witness status can be compelling while late testimony remains hard to test.
+layout: default
+permalink: /late-testimony/
+sidebar_expanded_urls:
+- /what-really-happened-in-wyoming-skies/
+nav_short_title: Late Testimony
+title: Can Decades Late UFO Testimony Be Trusted?
+title_full: Can Decades Late UFO Testimony Be Trusted? | Wyoming UFOs
+display_title_short: Late Testimony
+display_title: Late Testimony
+heading_title: Can Decades Late UFO Testimony Be Trusted?
+page_heading_title: Can Decades Late UFO Testimony Be Trusted?
+source_count: 96
+infographic_count: 3
+planned_sections:
+- The Barrett Account on Wyoming 59
+- Why Credible Witnesses Still Face Evidence Limits
+- What Late Reports Add to State UFO History
+focal_unit_type: population_context
+topic_lens: mechanism
+topic_granularity: theme_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-05-30 16:32:43'
+parent_title: Wyoming UFOs
+parent_permalink: /what-really-happened-in-wyoming-skies/
+parent_nav_short_title: Wyoming UFOs
+parent_heading_title: What Really Happened in Wyoming Skies?
+ancestor_links:
+- basename: Wyoming_ed190c
+  title: Wyoming UFOs
+  permalink: /what-really-happened-in-wyoming-skies/
+  short_title: Wyoming UFOs
+breadcrumb_links:
+- basename: Wyoming_ed190c
+  title: Wyoming UFOs
+  permalink: /what-really-happened-in-wyoming-skies/
+  short_title: Wyoming UFOs
+sibling_links:
+- basename: Wyoming_ed190c_cheyenne_1955_blue_b_201157
+  title: Cheyenne 1955 | What Really Happened in Wyoming Skies?
+  permalink: /cheyenne-1955/
+  short_title: Cheyenne 1955
+  heading_title: Why the Cheyenne 1955 Case Still Matters
+- basename: Wyoming_ed190c_fe_warren_missile_cl_9ca37f
+  title: F E Warren | What Really Happened in Wyoming Skies?
+  permalink: /f-e-warren/
+  short_title: F E Warren
+  heading_title: Do Wyoming Missile Sites Strengthen UFO Claims?
+- basename: Wyoming_ed190c_wyoming_nuforc_clust_b43e6f
+  title: Sightings Map | What Really Happened in Wyoming Skies?
+  permalink: /sightings-map-a1af37/
+  short_title: Sightings Map
+  heading_title: Where Do Wyoming UFO Reports Cluster?
+child_links:
+- basename: Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f
+  title: Barrett case | Late Testimony
+  permalink: /barrett-case/
+  short_title: Barrett case
+  heading_title: How strong is the Barrett Highway 59 story?
+- basename: Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767
+  title: Missing records | Late Testimony
+  permalink: /missing-records-c17ae4/
+  short_title: Missing records
+  heading_title: What evidence fades when UFO reports wait?
+up_link:
+  basename: Wyoming_ed190c
+  title: Wyoming UFOs
+  permalink: /what-really-happened-in-wyoming-skies/
+  short_title: Wyoming UFOs
+prev_link:
+  basename: Wyoming_ed190c_fe_warren_missile_cl_9ca37f
+  title: F E Warren | What Really Happened in Wyoming Skies?
+  permalink: /f-e-warren/
+  short_title: F E Warren
+  heading_title: Do Wyoming Missile Sites Strengthen UFO Claims?
+next_link:
+  basename: Wyoming_ed190c_wyoming_nuforc_clust_b43e6f
+  title: Sightings Map | What Really Happened in Wyoming Skies?
+  permalink: /sightings-map-a1af37/
+  short_title: Sightings Map
+  heading_title: Where Do Wyoming UFO Reports Cluster?
+header:
+  og_image: /assets/images/Wyoming_ed190c_delayed_witness_acco_673359-overview-social.jpg
+  preview_image: /assets/images/Wyoming_ed190c_delayed_witness_acco_673359-overview.webp
+image: /assets/images/Wyoming_ed190c_delayed_witness_acco_673359-overview-social.jpg
+---
+
+## Introduction
+
+Delayed [Wyoming]({{ 'what-really-happened-in-wyoming-skies/' | relative_url }}) UFO testimony can be compelling, but it is rarely decisive. The Barrett account on Wyoming 59 is a useful example: two legally trained witnesses, one of them a former Wyoming attorney general and federal appeals judge, described a dramatic 1991 encounter only much later in public. That status gives the story weight, but the delay also creates the central problem. By the time a case is reported decades later, investigators usually cannot check traffic, aircraft movements, weather, media logs, radar data, astronomical conditions, or independent witnesses in the way they might have done at the time. The result is not a simple choice between “credible” and “worthless”. It is a more awkward category: sincere testimony that may preserve an important Wyoming memory, while still falling short of strong evidence.
+
+
+<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359-overview.webp" | relative_url }}" alt="Overview image for Late Testimony" loading="eager" decoding="sync" fetchpriority="high">
+## The Barrett Account on Wyoming 59
+
+The best-known recent example of late Wyoming testimony is the account given by retired [Cheyenne]({{ 'cheyenne/' | relative_url }}) attorney Richard Barrett about an April 1991 drive south on Wyoming Highway 59 between Gillette and Wright. According to Cowboy State Daily’s 2026 report, Barrett said he and his father, Judge James Barrett, had left Gillette at about 11 p.m. after a speaking engagement and noticed a bright light in the western sky. The object was first interpreted as possibly a star, then appeared to shift position, intensify, and eventually seem to hover above their vehicle. Barrett described a very large, silent, metallic-looking object with rotating lights, strong illumination and dark window-like areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The account matters in Wyoming UFO history partly because of who the witnesses were. James Barrett had served as Wyoming attorney general from 1967 to 1971 and then as a judge on the 10th U.S. Circuit Court of Appeals; the Wyoming State Parks and Cultural Resources page for his oral history identifies him as a former attorney general and long-serving federal judge, and includes a segment titled “A Plane Crash and a UFO”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+That background does not prove the sighting was extraordinary in the way remembered. It does, however, make the story harder to dismiss as a casual internet rumour. The father and son were not presented as anonymous posters, and Richard Barrett said he wrote down thoughts and their conversation within days of the incident. That near-contemporaneous note, if available for inspection, would be one of the more valuable parts of the claim because it could separate what was remembered later from what was recorded shortly after the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The weakness is equally clear. The story did not enter the National UFO Reporting Center database, and the same report notes that the Barretts expected media coverage from other witnesses the next morning but found none. Richard Barrett said the family initially treated the story as a possible joke, and the men avoided wider disclosure because they did not want others to think they were “off our rockers”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+That silence is understandable. It is also exactly why the case remains difficult. A powerful light over a lonely road, a claimed huge object, no public report at the time, no known photographs, no radar file, no police log, no cluster of named independent witnesses, and a public account decades later: those features produce a memorable story, not a resolved case.
+
+
+<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359-Illustration-1-light.svg" | relative_url }}" alt="Late Testimony illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Credible Witnesses Still Face Evidence Limits
+
+The [Barrett case]({{ 'barrett-case/' | relative_url }}) illustrates a common trap in UFO discussion: treating witness status as if it can replace evidence. It cannot. A judge, lawyer, pilot, police officer, rancher, missile worker or astronomer may be observant and honest, but that does not make perception immune from error, especially during a brief, frightening, night-time event.
+
+NASA’s 2023 independent UAP study made this distinction directly. It said eyewitness reports may help identify patterns, such as clusters in time or location, but without calibrated sensor data they cannot provide conclusive evidence about the nature of a UAP. The report also stressed that a credible witness can still misjudge distance, speed, size, motion or environmental conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+That point is especially important in Wyoming. Long roads, open horizons, dark skies and sparse settlement can make lights look unusually vivid. The University of Utah’s 2023 study of UAP reports used National UFO Reporting Center data from 2001 to 2020 and found that reporting patterns were linked to sky-viewing conditions and the likelihood of objects being present, including proximity to airports and military installations. The university’s summary noted that many reports are concentrated in the American West, where wide-open spaces and dark skies make people more likely to notice strange-looking objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: attheu.utah.edu">[The U]</a><span class="citation-popover" role="note"><span class="citation-popover-source">attheu.utah.edu</span><span class="citation-popover-title">The UThe West is best to spot UFOs – @the U</span><span class="citation-popover-snippet">The UThe West is best to spot UFOs – @the U</span></span></span>
+
+That does not mean the Barretts saw a star, aircraft, military exercise, drone or optical effect. It means those possibilities become harder to test after 35 years. A late witness can describe what an object looked like from inside a moving car, but investigators may not be able to reconstruct the object’s actual altitude, size or distance. A light that seems to jump across the sky may have moved, disappeared, been replaced by another light, or been perceived through a changing frame of reference. Without supporting records, those possibilities remain open.
+
+Several credibility questions therefore matter more than the witness’s social standing:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **Was anything recorded close to the event?** A dated note, diary entry, letter, police call or local report is stronger than a memory first written decades later.
+* **Were there independent witnesses?** Two people in the same car can corroborate each other, but they also share the same viewing angle, emotional state and later family retellings.
+* **Can the date and route be fixed?** “April 1991 on Wyoming 59” is useful, but a precise date and time would allow checks against weather, astronomy, aircraft and possible military activity.
+* **Did the description change over time?** A stable early account is more valuable than a story that grows more detailed after years of retelling.
+* **Is the witness careful about conclusions?** Richard Barrett’s statement that he does not know who or what was responsible is more credible than a confident claim unsupported by evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+</div>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6aY9Wr-xjI" title="Psychology - Eyewitness Testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer">Psychology - Eyewitness Testimony</a></p><p class="youtube-embed-meta">Channel: Cognito &middot; Views: 2.6K &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6aY9Wr-xjI">Open on YouTube</a></p></div></div></div>
+
+## What Late Reports Add to State UFO History
+
+Late testimony is not useless. For Wyoming, it helps explain why the state’s UFO history has a distinctive shape: many stories are personal, rural, sparsely documented and only partly public. That pattern fits a place where people may see unusual lights in clear, dark skies but hesitate to report them because the social cost feels high.
+
+The National UFO Reporting Center’s Wyoming index includes reports across decades, including older sightings reported much later. Its state listing shows entries from places such as F.E. Warren Air Force Base, Lander, Laramie, Casper, Jackson Hole and rural Wyoming, making clear that the state’s UFO record is not built only from one famous case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lWY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+
+Even so, self-reported databases have built-in limits. NUFORC is useful for spotting patterns, locations and witness language, but reports vary widely in quality. Some are prompt, detailed and specific; others are brief, emotional, anonymous or filed years after the claimed event. That makes them valuable leads rather than final answers.
+
+The same caution applies to official records. Project Blue Book remains important for Wyoming because it includes a 23 May 1955 Cheyenne case listed in later catalogues as unexplained: two USAF airmen reportedly saw vertical rectangles and oval objects for more than five minutes. But the National Archives notes that Project Blue Book closed in 1969, and the Air Force fact sheet says 701 of 12,618 reports remained “unidentified” without treating that category as evidence of extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span></span></span>
+
+This distinction helps place late Wyoming accounts in the right category. They can preserve stories that would otherwise disappear. They can show where people were looking, what kinds of objects were described, and why military bases, highways, airports and open country matter in the state’s UFO folklore. But they rarely let investigators move from “unexplained by the witness” to “objectively unexplained after investigation”.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VUh9DPSJ9w8" title="The UFO - an Eyewitness Account" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VUh9DPSJ9w8" target="_blank" rel="noopener noreferrer">The UFO - an Eyewitness Account</a></p><p class="youtube-embed-meta">Channel: Joe Jenkins &middot; Views: 2.7K &middot; Uploaded: August 2017 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VUh9DPSJ9w8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VUh9DPSJ9w8">Open on YouTube</a></p></div></div></div>
+
+
+<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359-Illustration-3-light.svg" | relative_url }}" alt="Late Testimony illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359-Illustration-2-light.svg" | relative_url }}" alt="Late Testimony illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How the Barrett Story Should Be Weighed
+
+The Barrett account is stronger than many late UFO stories because it has named witnesses, a specific road, a claimed early written note, and an earlier oral-history trace connected to James Barrett. It is weaker than a robust investigative case because there is no known public contemporaneous official report, no recovered sensor evidence, no photograph, no precise publicly tested timeline, and no cluster of independent witnesses from the same night.
+
+A fair assessment would put it in the middle ground:
+
+**What strengthens it:** the witnesses were identifiable, professionally serious people; the description was detailed; Richard Barrett reportedly wrote down the event soon after it happened; and James Barrett’s Wyoming oral-history page independently confirms that a UFO segment existed in his recorded life story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+**What weakens it:** the public account arrived decades after the event; the father who could independently answer questions died in 2011; the incident was not logged in NUFORC; the expected wave of public corroboration did not appear; and later investigation cannot easily reconstruct the sky, traffic, aircraft or military context of that April 1991 night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+**What remains unresolved:** whether the Barretts saw an unknown craft, an unusual but conventional aircraft or military activity, a misperceived celestial or atmospheric event, or some combination of light, distance, motion and surprise that became fixed in memory as a structured object.
+
+That uncertainty is not a failure of the story. It is the story’s central lesson. In Wyoming UFO history, the most humanly persuasive accounts are not always the most evidentially useful. Late testimony can tell us what witnesses believe they experienced and why they kept quiet. It can also show how stigma shaped the record itself. But the longer the delay, the harder it becomes to separate a striking memory from a testable event.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qQ-96BLaKYQ" title="Brain Games- False Memory and Misinformation Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qQ-96BLaKYQ" target="_blank" rel="noopener noreferrer">Brain Games- False Memory and Misinformation Effect</a></p><p class="youtube-embed-meta">Channel: Professor Ross &middot; Views: 348.3K &middot; Uploaded: June 2014 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qQ-96BLaKYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qQ-96BLaKYQ">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Can Decades Late UFO Testimony Be Trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Explores witness reports, investigation methods and limits of UFO evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Focuses on witness testimony, evidence standards and credibility questions central to delayed reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RlfmwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs and Nukes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+        </h4>
+        <p class="fr-book-author">By Robert L. Hastings</p>
+        
+        <p class="fr-book-desc">Provides examples of how testimony and military claims are evaluated long after events.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs for the 21st Century Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uuGjoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs for the 21st Century Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs for the 21st Century Mind">UFOs for the 21st Century Mind</a>
+        </h4>
+        <p class="fr-book-author">By Richard M. Dolan</p>
+        
+        <p class="fr-book-desc">Discusses historical cases, evidence quality and investigative reasoning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Nukes</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-testimony-can-decades-late-ufo-testimony-be-trusted-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  if (!sections.length) return;
+  function inferMarket(available) {
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      return window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: 'EBAY_US'
+      });
+    }
+    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
+    return available[0];
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-market-init') === '1') return;
+    section.setAttribute('data-ebay-market-init', '1');
+    var select = section.querySelector('[data-ebay-market-select]');
+    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
+    if (!select || panels.length < 2) return;
+    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
+    function selectMarket(marketId, persist) {
+      panels.forEach(function (panel) {
+        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
+        panel.hidden = !active;
+      });
+      if (available.indexOf(marketId) >= 0) select.value = marketId;
+      var option = select.options[select.selectedIndex];
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+        label.textContent = option ? option.text : marketId;
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+        flag.className = flagClass(marketId);
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+        label.textContent = option ? option.text : marketId;
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      });
+      if (persist) {
+        try {
+          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
+        } catch (err) {}
+      }
+      closeMenu(section);
+    }
+    select.addEventListener('change', function () {
+      selectMarket(select.value, true);
+    });
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    selectMarket(inferMarket(available), false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+
+2. <a id="endnote-2"></a>
+   Source: attheu.utah.edu  
+   Title: The UThe West is best to spot UFOs – @the U  
+   Link: [https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/](https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/)  
+
+3. <a id="endnote-3"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/subndx/?id=lWY](https://nuforc.org/subndx/?id=lWY)  
+
+4. <a id="endnote-4"></a>
+   Source: archive.org  
+   Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
+   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+
+5. <a id="endnote-5"></a>
+   Source: archives.gov  
+   Title: National Archives Project BLUE BOOK  
+   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+
+6. <a id="endnote-6"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+
+7. <a id="endnote-7"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+
+8. <a id="endnote-8"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/](https://nuforc.org/)  
+
+9. <a id="endnote-9"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/subndx/?id=lIL](https://nuforc.org/subndx/?id=lIL)  
+
+10. <a id="endnote-10"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/post230729/](https://nuforc.org/post230729/)  
+
+11. <a id="endnote-11"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+
+12. <a id="endnote-12"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/sighting/?id=194812](https://nuforc.org/sighting/?id=194812)  
+
+13. <a id="endnote-13"></a>
+   Source: nuforc.org  
+   Title: Data Bank | NUFORC  
+   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+
+14. <a id="endnote-14"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/sighting/?id=67710](https://nuforc.org/sighting/?id=67710)  
+
+15. <a id="endnote-15"></a>
+   Source: nature.com  
+   Link: [https://www.nature.com/articles/s41599-024-03351-4](https://www.nature.com/articles/s41599-024-03351-4)  
+
+16. <a id="endnote-16"></a>
+   Source: cowboystatedaily.com  
+   Link: [https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/](https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/)  
+
+17. <a id="endnote-17"></a>
+   Source: wyospcr.wyo.gov  
+   Title: Judge James Barrett  
+   Link: [https://wyospcr.wyo.gov/index.php/wyoming-stories/340-judge-james-barrett](https://wyospcr.wyo.gov/index.php/wyoming-stories/340-judge-james-barrett)  
+
+18. <a id="endnote-18"></a>
+   Source: cowboystatedaily.com  
+   Title: mystery drones or maybe ufos over sweetwater county are the new normal  
+   Link: [https://cowboystatedaily.com/2025/12/15/mystery-drones-or-maybe-ufos-over-sweetwater-county-are-the-new-normal/](https://cowboystatedaily.com/2025/12/15/mystery-drones-or-maybe-ufos-over-sweetwater-county-are-the-new-normal/)  
+
+19. <a id="endnote-19"></a>
+   Source: cowboystatedaily.com  
+   Title: cheyenne reports more ufo sightings than anywhere else in wyoming  
+   Link: [https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/](https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/)  
+
+20. <a id="endnote-20"></a>
+   Source: Wikipedia  
+   Title: Project Blue Book  
+   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+
+21. <a id="endnote-21"></a>
+   Source: marcianitosverdes.haaan.com  
+   Link: [https://marcianitosverdes.haaan.com/page/8/?dur=159503](https://marcianitosverdes.haaan.com/page/8/?dur=159503)  
+
+22. <a id="endnote-22"></a>
+   Source: public.tableau.com  
+   Title: National UFOReporting Center NUFORCdata  
+   Link: [https://public.tableau.com/app/profile/chandler.kaiden/viz/NationalUFOReportingCenterNUFORCdata/NationalUFOReportingCenterNUFORCdata](https://public.tableau.com/app/profile/chandler.kaiden/viz/NationalUFOReportingCenterNUFORCdata/NationalUFOReportingCenterNUFORCdata)  
+
+23. <a id="endnote-23"></a>
+   Source: geekchocolate.co.uk  
+   Title: project blue book  
+   Link: [https://geekchocolate.co.uk/project-blue-book/](https://geekchocolate.co.uk/project-blue-book/)  
+
+24. <a id="endnote-24"></a>
+   Source: britannica.com  
+   Title: Project Blue Book  
+   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+
+### Additional References
+
+25. <a id="endnote-25"></a>
+   Source: youtube.com  
+   Link: [http://www.youtube.com/watch?v=m6aY9Wr-xjI](http://www.youtube.com/watch?v=m6aY9Wr-xjI)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Barrett James Barrett UFO Wyoming 35 Years Later… A Wyoming Attorney Still Can’t Explain What He Saw Nebtide Facts of Life...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: govinfo.gov  
+   Link: [https://www.govinfo.gov/content/pkg/GPO-CRECB-1956-pt6/pdf/GPO-CRECB-1956-pt6-2.pdf](https://www.govinfo.gov/content/pkg/GPO-CRECB-1956-pt6/pdf/GPO-CRECB-1956-pt6-2.pdf)  
+
+27. <a id="endnote-27"></a>
+   Source: nsa.gov  
+   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+
+28. <a id="endnote-28"></a>
+   Source: nycourts.gov  
+   Link: [https://www.nycourts.gov/reporter/files/bv/29Misc3d.pdf](https://www.nycourts.gov/reporter/files/bv/29Misc3d.pdf)  
+
+29. <a id="endnote-29"></a>
+   Source: youtube.com  
+   Title: 35 Years Later… A Wyoming Attorney Still Can’t Explain What He Saw  
+   Link: [http://www.youtube.com/watch?v=mxwG4uBk_FI](http://www.youtube.com/watch?v=mxwG4uBk_FI)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wyoming Highway UFO Unexplained Sky Object Sighting...</p></details>
+
+30. <a id="endnote-30"></a>
+   Source: youtube.com  
+   Title: Brain Games- False Memory and Misinformation Effect  
+   Link: [http://www.youtube.com/watch?v=qQ-96BLaKYQ](http://www.youtube.com/watch?v=qQ-96BLaKYQ)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Law S4 E8: The Psychology of Eyewitness Memory...</p></details>
+
+31. <a id="endnote-31"></a>
+   Source: youtube.com  
+   Title: Wyoming Highway UFO Unexplained Sky Object Sighting  
+   Link: [http://www.youtube.com/watch?v=86Jm2lHebT8](http://www.youtube.com/watch?v=86Jm2lHebT8)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain Games- False Memory and Misinformation Effect...</p></details>
+
+32. <a id="endnote-32"></a>
+   Source: 8kun.top  
+   Link: [https://8kun.top/qnotables25/res/100929.html](https://8kun.top/qnotables25/res/100929.html)  
+
+33. <a id="endnote-33"></a>
+   Source: x.com  
+   Link: [https://x.com/daily_cowboy/status/2055679763629613130](https://x.com/daily_cowboy/status/2055679763629613130)  
+
+34. <a id="endnote-34"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/](https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/)  
