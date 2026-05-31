@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Branchoria
+title: UAP State Files
+description: 'State-by-state guides to UFO and UAP cases, records, explanations, and evidence checks.'
 permalink: /
 home: true
 homepage_audience_mode: production

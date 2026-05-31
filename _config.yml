@@ -1,9 +1,9 @@
-title: 'Alabama UFOs'
-short_title: 'Alabama UFOs'
+title: 'UAP State Files'
+short_title: 'UAP State Files'
 brand_name: 'Branchoria'
 brand_domain: 'branchoria.com'
-description: 'Practical guides on Alabama UFOs, organized for fast browsing and comparison.'
-tagline: 'Exploring the state''s most notable UFO sightings and reports'
+description: 'State-by-state guides to UFO and UAP cases, records, explanations, and evidence checks.'
+tagline: 'State-by-state UFO cases, records, explanations, and evidence checks.'
 encoding: utf-8
 lang: 'en'
 locale: 'en'
@@ -29,7 +29,7 @@ endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
 baseurl: ""
-url: "https://alabama-ufos.branchoria.com"
+url: "https://uap-state-files.branchoria.com"
 ui_priority: 'home-first'
 homepage_audience_mode: 'production'
 homepage_copy_policy: 'polished'
