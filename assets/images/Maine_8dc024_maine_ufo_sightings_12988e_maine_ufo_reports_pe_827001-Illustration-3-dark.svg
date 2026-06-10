@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" data-theme="dark">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1920 1080" data-theme="dark">
   <style>
         @font-face {
             font-family: 'Inter';
@@ -129,183 +129,283 @@
     --accent-10: #c026d3;
 }</style>
   <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
-  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="135.0" y2="135.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="80.0" y2="80.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
   <defs>
-    <pattern id="svg73d6276d-napkin-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
-      <path d="M -3 12 L 12 -3 M 0 15 L 15 0" fill="none" stroke="var(--primary-text)" stroke-width="1" stroke-opacity="0.05"/>
+    <filter id="svg5cd8e35a-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="svg5cd8e35a-drop-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+    <linearGradient id="svg5cd8e35a-bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--background)"/>
+      <stop offset="100%" stop-color="var(--panel)"/>
+    </linearGradient>
+    <radialGradient id="svg5cd8e35a-core-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="var(--accent-1)" stop-opacity="0.2"/>
+      <stop offset="60%" stop-color="var(--accent-1)" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="var(--accent-1)" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="svg5cd8e35a-dot-grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="var(--muted-text)" opacity="0.1"/>
     </pattern>
-    <filter id="svg73d6276d-shadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
-      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
-    </filter>
-    <marker id="svg73d6276d-arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
-      <path d="M 0 0 L 10 5 L 0 10 Z" fill="var(--accent-1)"/>
-    </marker>
-    <filter id="svg73d6276d-text-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
-    </filter>
-    <radialGradient id="svg73d6276d-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+    <radialGradient id="svg5cd8e35a-universal-edge-vignette" cx="50%" cy="50%" r="72%">
       <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
       <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
       <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
     </radialGradient>
-    <linearGradient id="svg73d6276d-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="svg5cd8e35a-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
       <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
       <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
     </linearGradient>
-    <radialGradient id="svg73d6276d-universal-icon-aura" cx="50%" cy="42%" r="64%">
+    <radialGradient id="svg5cd8e35a-universal-icon-aura" cx="50%" cy="42%" r="64%">
       <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
       <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="svg73d6276d-myth-card-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="var(--inverse-text)" stop-opacity="0.18"/>
-      <stop offset="56%" stop-color="var(--inverse-text)" stop-opacity="0.03"/>
-      <stop offset="100%" stop-color="var(--background)" stop-opacity="0.12"/>
+    <radialGradient id="svg5cd8e35a-orbital-rings-art-glow" cx="50%" cy="52%" r="68%">
+      <stop offset="0%" stop-color="var(--inverse-text)" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="svg5cd8e35a-orbital-rings-art-sheen" x1="16%" y1="0%" x2="86%" y2="100%">
+      <stop offset="0%" stop-color="var(--inverse-text)" stop-opacity="0.22"/>
+      <stop offset="52%" stop-color="var(--inverse-text)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0.14"/>
     </linearGradient>
+    <radialGradient id="svg5cd8e35a-orbital-depth-glow" cx="50%" cy="50%" r="58%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="58%" stop-color="var(--art-glow)" stop-opacity="0.055"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="svg5cd8e35a-orbital-ring-sweep" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="svg5cd8e35a-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <filter id="svg5cd8e35a-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="svg5cd8e35a-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="var(--muted-text)" opacity="0.6"/>
+    </marker>
   </defs>
   <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
-  <rect width="100%" height="100%" fill="url(#svg73d6276d-napkin-hatch)"/>
-  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svg73d6276d-universal-edge-vignette)" opacity="0.62"/>
-  <text id="TITLE" x="960.0" y="59" text-anchor="middle" font-weight="800" font-size="56" fill="#f1f5f9" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
-    <tspan x="960.0" dy="68.00px">Country Herald Analysis</tspan>
+  <ellipse id="ORBITAL-RINGS_ART_GLOW" cx="960" cy="600" rx="650" ry="340" fill="url(#svg5cd8e35a-orbital-rings-art-glow)" opacity="0.84"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svg5cd8e35a-universal-edge-vignette)" opacity="0.62"/>
+  <rect width="1920" height="1080" fill="url(#svg5cd8e35a-bg-grad)"/>
+  <rect width="1920" height="1080" fill="url(#svg5cd8e35a-dot-grid)"/>
+  <rect id="TITLE_FRAME" x="134" y="10" width="1652" height="60" fill="none" pointer-events="none"/>
+  <text id="TITLE" x="960.0" y="59" font-size="48" font-weight="700" fill="#f1f5f9" text-anchor="middle" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
+    <tspan x="960.0" dy="68.00px">WABI TV Hotspot Check</tspan>
   </text>
-  <rect id="TITLE_FRAME" x="134" y="59" width="1652" height="103" fill="none"/>
-  <g transform="translate(0, 190) scale(1.0)">
-    <path d="M 920 -8 C 950 80 950 720 920 808" stroke="var(--primary-text)" stroke-width="2" stroke-opacity="0.10" fill="none"/>
-    <path d="M 1000 -8 C 970 80 970 720 1000 808" stroke="var(--primary-text)" stroke-width="2" stroke-opacity="0.10" fill="none"/>
-    <text x="480.0" y="0" text-anchor="middle" font-weight="900" font-size="52" fill="var(--accent-1)">MYTHS</text>
-    <text x="1440.0" y="0" text-anchor="middle" font-weight="900" font-size="52" fill="var(--accent-2)">REALITY</text>
-    <!-- Row 1 - cards at y=130 -->
-    <g transform="translate(480.0, 130.0)">
-      <rect id="ITEM_1_ACCENT_BG" x="-400" y="-110" width="800" height="245" rx="24" fill="var(--accent-7)" fill-opacity="0.15" stroke="none"/>
-      <rect id="ITEM_1_BG" x="-400" y="-110" width="800" height="245" rx="18" fill="var(--panel)" stroke="var(--accent-1)" filter="url(#svg73d6276d-shadow)" stroke-width="3"/>
-      <rect x="-388" y="-98" width="776" height="221" rx="16" fill="url(#svg73d6276d-myth-card-sheen)" opacity="0.92"/>
-      <circle id="ITEM_1_PAD" cx="-330" cy="-40" r="46" fill="var(--icon-pad-bg)" stroke="var(--background)" stroke-width="2" stroke-opacity="0.65" opacity="0.94" fill-opacity="0.9"/>
-      <circle id="ITEM_1_PAD_INNER" cx="-330" cy="-40" r="35.88" fill="var(--accent-7)" fill-opacity="0.22"/>
-      <circle cx="-330" cy="-40" r="34" fill="none" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4"/>
-      <g id="ITEM_1_ICON" transform="translate(-358, -68)" data-icon-size="56" stroke-dasharray="6 4">
-        <g transform="translate(-10.920677966101698,-10.920677966101698) scale(0.15203389830508476)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
-          <path fill="#f1f5f9" d="M98.398 21.146a17 17 0 0 0-4.636.521c-20.49 5.262-33.163 20.63-36.116 38.649c-2.952 18.019 2.168 38.346 12.676 58.193c20.695 39.086 63.262 77.08 117.852 85.85c-5.61-6.72-11.05-14.246-16.274-22.375c-39.008-12.57-70.021-42.344-85.67-71.899c-9.206-17.387-12.846-34.491-10.82-46.857C77.437 50.862 83.482 42.89 98.238 39.1c.065-.017.068-.034.092-.053c-.065-.143.105-.08 0 0a.7.7 0 0 0 .176.217c.527.493 1.689 2.24 2.207 5.14c1.036 5.804-.413 15.593-8.135 25.68l14.293 10.942c10.418-13.61 13.65-28.086 11.56-39.785c-1.044-5.85-3.396-11.165-7.628-15.124c-3.174-2.969-7.747-4.868-12.405-4.972zm315.204 0c-4.658.104-9.23 2.003-12.405 4.972c-4.232 3.96-6.584 9.274-7.629 15.124c-2.089 11.699 1.143 26.174 11.56 39.785l14.294-10.942c-7.722-10.087-9.171-19.876-8.135-25.68c.518-2.9 1.68-4.647 2.207-5.14a.7.7 0 0 0 .176-.217c-.105-.08.065-.143 0 0c.024.019.027.036.092.053c14.756 3.79 20.801 11.76 22.828 24.127c2.026 12.366-1.614 29.47-10.82 46.857c-15.649 29.555-46.662 59.33-85.67 71.899c-5.223 8.129-10.665 15.655-16.274 22.375c54.59-8.77 97.157-46.764 117.852-85.85c10.508-19.847 15.628-40.174 12.676-58.193c-2.953-18.02-15.626-33.387-36.116-38.649a17 17 0 0 0-4.636-.521m-276.166 7.713c2.146 36.533 16.76 83.07 36.537 120.824c10.707 20.442 22.876 38.334 34.761 50.685C220.62 212.72 232 218.858 240 218.858h32c8 0 19.38-6.138 31.266-18.49s24.054-30.243 34.761-50.685c19.777-37.755 34.39-84.29 36.537-120.824zm95.564 208v16h46v-16zm6.445 34c-2.458 25.967-12.796 57.873-24.437 76h81.984c-11.64-18.127-21.979-50.033-24.437-76zm-38.445 94v14h110v-14zm-32 32v94h174v-94zm23 23h128v48H192z" vector-effect="non-scaling-stroke" stroke="none"/>
-        </g>
+  <g id="DIAGRAM_MAIN">
+    <!-- Center Core Glow -->
+    <circle cx="960.0" cy="540.0" r="280" fill="url(#svg5cd8e35a-core-glow)" pointer-events="none"/>
+    <circle cx="960.0" cy="540.0" r="240.0" fill="none" stroke="var(--muted-text)" stroke-width="2" stroke-dasharray="8 8" opacity="0.4"/>
+    <circle id="ORBITAL_RINGS_ART_RING_SHEEN_240.0" cx="960.0" cy="540.0" r="240.0" fill="none" stroke="url(#svg5cd8e35a-orbital-ring-sweep)" stroke-width="3" stroke-dasharray="28 30" opacity="0.46"/>
+    <circle cx="960.0" cy="540.0" r="284.0" fill="none" stroke="var(--muted-text)" stroke-width="2" stroke-dasharray="8 8" opacity="0.4"/>
+    <circle id="ORBITAL_RINGS_ART_RING_SHEEN_284.0" cx="960.0" cy="540.0" r="284.0" fill="none" stroke="url(#svg5cd8e35a-orbital-ring-sweep)" stroke-width="3" stroke-dasharray="28 30" opacity="0.46"/>
+    <circle cx="960.0" cy="540.0" r="328.0" fill="none" stroke="var(--muted-text)" stroke-width="2" stroke-dasharray="8 8" opacity="0.4"/>
+    <circle id="ORBITAL_RINGS_ART_RING_SHEEN_328.0" cx="960.0" cy="540.0" r="328.0" fill="none" stroke="url(#svg5cd8e35a-orbital-ring-sweep)" stroke-width="3" stroke-dasharray="28 30" opacity="0.46"/>
+    <circle cx="960.0" cy="540.0" r="372.0" fill="none" stroke="var(--muted-text)" stroke-width="2" stroke-dasharray="8 8" opacity="0.4"/>
+    <circle id="ORBITAL_RINGS_ART_RING_SHEEN_372.0" cx="960.0" cy="540.0" r="372.0" fill="none" stroke="url(#svg5cd8e35a-orbital-ring-sweep)" stroke-width="3" stroke-dasharray="28 30" opacity="0.46"/>
+    <circle cx="960.0" cy="540.0" r="416.0" fill="none" stroke="var(--muted-text)" stroke-width="2" stroke-dasharray="8 8" opacity="0.4"/>
+    <circle id="ORBITAL_RINGS_ART_RING_SHEEN_416.0" cx="960.0" cy="540.0" r="416.0" fill="none" stroke="url(#svg5cd8e35a-orbital-ring-sweep)" stroke-width="3" stroke-dasharray="28 30" opacity="0.46"/>
+    <circle cx="960.0" cy="540.0" r="460.0" fill="none" stroke="var(--muted-text)" stroke-width="2" stroke-dasharray="8 8" opacity="0.4"/>
+    <circle id="ORBITAL_RINGS_ART_RING_SHEEN_460.0" cx="960.0" cy="540.0" r="460.0" fill="none" stroke="url(#svg5cd8e35a-orbital-ring-sweep)" stroke-width="3" stroke-dasharray="28 30" opacity="0.46"/>
+    <ellipse id="ORBITAL_RINGS_ART_DEPTH_GLOW" cx="960.0" cy="540.0" rx="410" ry="340" fill="url(#svg5cd8e35a-orbital-depth-glow)" opacity="0.92"/>
+    <!-- Central Core Graphic -->
+    <circle cx="960.0" cy="540.0" r="180" fill="var(--panel)" stroke="var(--primary-text)" stroke-width="4" filter="url(#svg5cd8e35a-drop-shadow)"/>
+    <circle cx="960.0" cy="540.0" r="165" fill="none" stroke="var(--muted-text)" stroke-width="2" stroke-dasharray="10 5" opacity="0.3"/>
+    <circle cx="960.0" cy="540.0" r="140" fill="none" stroke="var(--accent-1)" stroke-width="1" stroke-dasharray="4 4" opacity="0.5"/>
+    <circle id="ORBITAL_RINGS_ART_CORE_AURA" cx="960.0" cy="540.0" r="74" fill="url(#svg5cd8e35a-universal-icon-aura)" opacity="0.72"/>
+    <circle cx="960.0" cy="540.0" r="30" fill="var(--primary-text)" opacity="0.1"/>
+    <circle id="ORBITAL_RINGS_ART_CORE_GLINT" cx="938" cy="518" r="11" fill="var(--art-sheen)" opacity="0.34"/>
+    <!-- Standard Top Global Title -->
+    <circle id="ORBITAL_RINGS_ART_NODE_AURA_1" cx="1200.0" cy="540.0" r="58" fill="var(--accent-4)" opacity="0.72" fill-opacity="0.15" stroke="var(--accent-4)" stroke-opacity="1.0"/>
+    <circle id="ITEM_1_BORDER" cx="1200.0" cy="540.0" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-4)" filter="url(#svg5cd8e35a-drop-shadow)" stroke-opacity="1.0"/>
+    <circle id="ITEM_1_STROKE" cx="1200.0" cy="540.0" r="34" fill="none" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4" opacity="0.95"/>
+    <!-- Node Icon Placeholder -->
+    <circle id="ITEM_1_PAD" cx="1204.00" cy="544.00" r="44.80" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_1_PAD_INNER" cx="1204.00" cy="544.00" r="34.94" fill="var(--accent-4)" fill-opacity="0.22"/>
+    <g id="ITEM_1_ICON" transform="translate(1176.0, 516.0)" data-icon-size="56" stroke-dasharray="6 4">
+      <g transform="translate(-9.905355932203385,-9.905355932203387) scale(3.1587796610169487)" vector-effect="non-scaling-stroke" stroke-width="2.38" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+        <path d="M16.95 9.01c3.02 .739 5.05 2.123 5.05 3.714c0 2.367 -4.48 4.276 -10 4.276s-10 -1.909 -10 -4.276c0 -1.59 2.04 -2.985 5.07 -3.724" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M7 9c0 1.105 2.239 2 5 2s5 -.895 5 -2v-.035c0 -2.742 -2.239 -4.965 -5 -4.965s-5 2.223 -5 4.965v.035" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M15 17l2 3" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M8.5 17l-1.5 3" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M12 14h.01" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M7 13h.01" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M17 13h.01" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
       </g>
-      <text id="ITEM_1_HEAD" x="0.0" y="-85.0" text-anchor="middle" font-weight="bold" font-size="28" fill="var(--accent-7)" data-bg-id="ITEM_1_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
-        <tspan x="0.0" dy="37.75px">Ranking</tspan>
-      </text>
-      <rect id="ITEM_1_HEAD_FRAME" x="-310" y="-85" width="620" height="50" fill="none"/>
-      <text id="ITEM_1_BODY" x="0.0" y="-20.0" text-anchor="middle" font-size="22" fill="var(--primary-text)" opacity="0.88" data-bg-id="ITEM_1_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
-        <tspan x="0.0" dy="51.40px">Maine ranks fourth or fifth in US per capita</tspan>
-      </text>
-      <rect id="ITEM_1_BODY_FRAME" x="-310" y="-20" width="620" height="155" fill="none"/>
     </g>
-    <g transform="translate(1440.0, 130.0)">
-      <rect id="ITEM_2_ACCENT_BG" x="-400" y="-110" width="800" height="245" rx="24" fill="var(--accent-2)" fill-opacity="0.15" stroke="none"/>
-      <rect id="ITEM_2_BG" x="-400" y="-110" width="800" height="245" rx="18" fill="var(--panel)" stroke="var(--accent-2)" filter="url(#svg73d6276d-shadow)" stroke-width="3"/>
-      <rect x="-388" y="-98" width="776" height="221" rx="16" fill="url(#svg73d6276d-myth-card-sheen)" opacity="0.92"/>
-      <circle id="ITEM_2_PAD" cx="330" cy="-40" r="46" fill="var(--icon-pad-bg)" stroke="var(--background)" stroke-width="2" stroke-opacity="0.65" opacity="0.94" fill-opacity="0.9"/>
-      <circle id="ITEM_2_PAD_INNER" cx="330" cy="-40" r="35.88" fill="var(--accent-2)" fill-opacity="0.22"/>
-      <circle cx="330" cy="-40" r="34" fill="none" stroke="var(--accent-2)" stroke-width="3" stroke-dasharray="6 4"/>
-      <g id="ITEM_2_ICON" transform="translate(302, -68)" data-icon-size="56" stroke-dasharray="6 4">
-        <g transform="translate(-10.920677966101701,-10.920677966101698) scale(3.243389830508475)" vector-effect="non-scaling-stroke" stroke-width="2.38" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
-          <rect width="16" height="20" x="4" y="2" rx="2" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
-          <line x1="8" x2="16" y1="6" y2="6" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
-          <line x1="16" x2="16" y1="14" y2="18" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
-          <path d="M16 10h.01" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
-          <path d="M12 10h.01" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
-          <path d="M8 10h.01" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
-          <path d="M12 14h.01" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
-          <path d="M8 14h.01" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
-          <path d="M12 18h.01" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
-          <path d="M8 18h.01" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
-        </g>
+    <line x1="1248.0" y1="540.0" x2="1260.0" y2="540.0" stroke="var(--accent-1)" stroke-width="2" stroke-dasharray="2 2" opacity="0.5"/>
+    <circle cx="1260.0" cy="540.0" r="3" fill="var(--accent-1)"/>
+    <!-- Node 1 Frames -->
+    <rect id="ITEM_1_BG" x="1270" y="490.0" width="380" height="170" rx="22" fill="var(--panel)" stroke="var(--accent-1)" stroke-width="2" stroke-opacity="0.25" fill-opacity="0.94" pointer-events="none"/>
+    <rect id="ORBITAL-RINGS_ART_ITEM_SHEEN_1" x="1270" y="490.0" width="380" height="170" rx="18" fill="var(--accent-4)" opacity="0.62" fill-opacity="0.15" stroke="var(--accent-4)" stroke-opacity="1.0"/>
+    <rect id="ITEM_1_HEAD_FRAME" x="1270.0" y="500.0" width="260" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_1_BODY_FRAME" x="1270" y="540.0" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_1_TEXT_BG" x="1252" y="486" width="416" height="192" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-width="2"/>
+    <text id="ITEM_1_HEAD" x="1270.0" y="500.0" font-family="var(--font-heading)" font-weight="bold" font-size="28" fill="var(--accent-4)" text-anchor="start" data-bg-id="ITEM_1_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1270.0" dy="28.25px">Myth: More Aliens</tspan>
+    </text>
+    <text id="ITEM_1_BODY" x="1270.0" y="540.0" font-family="var(--font-body)" font-size="20" fill="var(--primary-text)" opacity="0.8" text-anchor="start" data-bg-id="ITEM_1_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1270.0" dy="32.84px">Data reflects reporting</tspan>
+      <tspan x="1270.0" dy="29.90px">habits, not alien density</tspan>
+    </text>
+    <circle id="ORBITAL_RINGS_ART_NODE_AURA_2" cx="676.0" cy="540.0" r="58" fill="var(--accent-5)" opacity="0.72" fill-opacity="0.15" stroke="var(--accent-5)" stroke-opacity="1.0"/>
+    <circle id="ITEM_2_BORDER" cx="676.0" cy="540.0" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-5)" filter="url(#svg5cd8e35a-drop-shadow)" stroke-opacity="1.0"/>
+    <circle id="ITEM_2_STROKE" cx="676.0" cy="540.0" r="34" fill="none" stroke="var(--accent-2)" stroke-width="3" stroke-dasharray="6 4" opacity="0.95"/>
+    <!-- Node Icon Placeholder -->
+    <circle id="ITEM_2_PAD" cx="680.00" cy="544.00" r="44.80" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_2_PAD_INNER" cx="680.00" cy="544.00" r="34.94" fill="var(--accent-5)" fill-opacity="0.22"/>
+    <g id="ITEM_2_ICON" transform="translate(652.0, 516.0)" data-icon-size="56" stroke-dasharray="6 4">
+      <g transform="translate(-9.905355932203385,-9.905355932203385) scale(3.1587796610169487)" vector-effect="non-scaling-stroke" stroke-width="2.38" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+        <ellipse cx="12" cy="5" rx="9" ry="3" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M3 5V19A9 3 0 0 0 21 19V5" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M3 12A9 3 0 0 0 21 12" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
       </g>
-      <text id="ITEM_2_HEAD" x="0.0" y="-85.0" text-anchor="middle" font-weight="bold" font-size="28" fill="var(--accent-2)" data-bg-id="ITEM_2_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
-        <tspan x="0.0" dy="37.75px">Rate Ratio</tspan>
-      </text>
-      <rect id="ITEM_2_HEAD_FRAME" x="-310" y="-85" width="620" height="50" fill="none"/>
-      <text id="ITEM_2_BODY" x="0.0" y="-20.0" text-anchor="middle" font-size="22" fill="var(--primary-text)" opacity="0.88" data-bg-id="ITEM_2_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
-        <tspan x="0.0" dy="51.40px">One sighting occurs for every 1,358 residents</tspan>
-      </text>
-      <rect id="ITEM_2_BODY_FRAME" x="-310" y="-20" width="620" height="155" fill="none"/>
     </g>
-    <!-- Row 2 - cards at y=400 -->
-    <g transform="translate(480.0, 400.0)">
-      <rect id="ITEM_3_ACCENT_BG" x="-400" y="-110" width="800" height="245" rx="24" fill="var(--accent-3)" fill-opacity="0.15"/>
-      <rect id="ITEM_3_BG" x="-400" y="-110" width="800" height="245" rx="18" fill="var(--panel)" stroke="var(--accent-3)" filter="url(#svg73d6276d-shadow)" stroke-width="3"/>
-      <rect x="-388" y="-98" width="776" height="221" rx="16" fill="url(#svg73d6276d-myth-card-sheen)" opacity="0.92"/>
-      <circle id="ITEM_3_PAD" cx="-330" cy="-40" r="46" fill="var(--icon-pad-bg)" stroke="var(--background)" stroke-width="2" stroke-opacity="0.65" opacity="0.94"/>
-      <circle id="ITEM_3_PAD_INNER" cx="-330" cy="-40" r="35.88" fill="var(--accent-3)" fill-opacity="0.22"/>
-      <circle cx="-330" cy="-40" r="34" fill="none" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4"/>
-      <g id="ITEM_3_ICON" transform="translate(-358, -68)" data-icon-size="56" stroke-dasharray="6 4">
-        <g transform="translate(-10.920677966101696,-10.920677966101698) scale(3.243389830508475)" vector-effect="non-scaling-stroke" stroke-width="2.38" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
-          <ellipse cx="12" cy="5" rx="9" ry="3" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
-          <path d="M3 5V19A9 3 0 0 0 21 19V5" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
-          <path d="M3 12A9 3 0 0 0 21 12" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
-        </g>
+    <line x1="628.0" y1="540.0" x2="616.0" y2="540.0" stroke="var(--accent-2)" stroke-width="2" stroke-dasharray="2 2" opacity="0.5"/>
+    <circle cx="616.0" cy="540.0" r="3" fill="var(--accent-2)"/>
+    <!-- Node 2 Frames -->
+    <rect id="ITEM_2_BG" x="226" y="490.0" width="380" height="170" rx="22" fill="var(--panel)" stroke="var(--accent-2)" stroke-width="2" stroke-opacity="0.25" fill-opacity="0.94" pointer-events="none"/>
+    <rect id="ORBITAL-RINGS_ART_ITEM_SHEEN_2" x="226" y="490.0" width="380" height="170" rx="18" fill="var(--accent-5)" opacity="0.62" fill-opacity="0.15" stroke="var(--accent-5)" stroke-opacity="1.0"/>
+    <rect id="ITEM_2_HEAD_FRAME" x="346.0" y="500.0" width="260" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_2_BODY_FRAME" x="226" y="540.0" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_2_TEXT_BG" x="208" y="486" width="416" height="192" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-width="2"/>
+    <text id="ITEM_2_HEAD" x="606.0" y="500.0" font-family="var(--font-heading)" font-weight="bold" font-size="28" fill="var(--accent-5)" text-anchor="end" data-bg-id="ITEM_2_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="606.0" dy="28.25px">Fact: Dark Skies</tspan>
+    </text>
+    <text id="ITEM_2_BODY" x="606.0" y="540.0" font-family="var(--font-body)" font-size="20" fill="var(--primary-text)" opacity="0.8" text-anchor="end" data-bg-id="ITEM_2_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="606.0" dy="32.84px">Low light pollution aids human</tspan>
+      <tspan x="606.0" dy="29.90px">eye detection</tspan>
+    </text>
+    <circle id="ORBITAL_RINGS_ART_NODE_AURA_3" cx="1170.834335977185" cy="328.73742265697524" r="58" fill="var(--accent-6)" opacity="0.72" fill-opacity="0.15" stroke="var(--accent-6)" stroke-opacity="1.0"/>
+    <circle id="ITEM_3_BORDER" cx="1170.834335977185" cy="328.73742265697524" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-6)" filter="url(#svg5cd8e35a-drop-shadow)" stroke-opacity="1.0"/>
+    <circle id="ITEM_3_STROKE" cx="1170.834335977185" cy="328.73742265697524" r="34" fill="none" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4" opacity="0.95"/>
+    <!-- Node Icon Placeholder -->
+    <circle id="ITEM_3_PAD" cx="1174.83" cy="332.74" r="44.80" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_3_PAD_INNER" cx="1174.83" cy="332.74" r="34.94" fill="var(--accent-6)" fill-opacity="0.22"/>
+    <g id="ITEM_3_ICON" transform="translate(1146.834335977185, 304.73742265697524)" data-icon-size="56" stroke-dasharray="6 4">
+      <g transform="translate(-9.905355932203385,-9.905355932203385) scale(3.1587796610169487)" vector-effect="non-scaling-stroke" stroke-width="2.38" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+        <path d="m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M7 21h10" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M12 3v18" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
       </g>
-      <text id="ITEM_3_HEAD" x="0.0" y="-85.0" text-anchor="middle" font-weight="bold" font-size="28" fill="var(--accent-3)" data-bg-id="ITEM_3_BG" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
-        <tspan x="0.0" dy="37.75px">Data Source</tspan>
-      </text>
-      <rect id="ITEM_3_HEAD_FRAME" x="-310" y="-85" width="620" height="50" fill="none"/>
-      <text id="ITEM_3_BODY" x="0.0" y="-20.0" text-anchor="middle" font-size="22" fill="var(--primary-text)" opacity="0.88" data-bg-id="ITEM_3_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
-        <tspan x="0.0" dy="51.40px">NUFORC data base tracks voluntary public submissions</tspan>
-      </text>
-      <rect id="ITEM_3_BODY_FRAME" x="-310" y="-20" width="620" height="155" fill="none"/>
     </g>
-    <g transform="translate(1440.0, 400.0)">
-      <rect id="ITEM_4_ACCENT_BG" x="-400" y="-110" width="800" height="245" rx="24" fill="var(--accent-4)" fill-opacity="0.15"/>
-      <rect id="ITEM_4_BG" x="-400" y="-110" width="800" height="245" rx="18" fill="var(--panel)" stroke="var(--accent-4)" filter="url(#svg73d6276d-shadow)" stroke-width="3"/>
-      <rect x="-388" y="-98" width="776" height="221" rx="16" fill="url(#svg73d6276d-myth-card-sheen)" opacity="0.92"/>
-      <circle id="ITEM_4_PAD" cx="330" cy="-40" r="46" fill="var(--icon-pad-bg)" stroke="var(--background)" stroke-width="2" stroke-opacity="0.65" opacity="0.94"/>
-      <circle id="ITEM_4_PAD_INNER" cx="330" cy="-40" r="35.88" fill="var(--accent-4)" fill-opacity="0.22"/>
-      <circle cx="330" cy="-40" r="34" fill="none" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4"/>
-      <g id="ITEM_4_ICON" transform="translate(302, -68)" data-icon-size="56" stroke-dasharray="6 4">
-        <g transform="translate(-13.00571428571429,-13.005714285714289) scale(2.562857142857143)">
-          <path d="M5 4.5C5 3.67157 5.67157 3 6.5 3H25.5C26.3284 3 27 3.67157 27 4.5V28.5C27 29.3284 26.3284 30 25.5 30H6.5C5.67157 30 5 29.3284 5 28.5V4.5Z" fill="#E19747"/>
-          <path d="M25 6C25 5.44772 24.5523 5 24 5H8C7.44772 5 7 5.44772 7 6V27C7 27.5523 7.44772 28 8 28H18.5858C18.7327 28 18.8764 27.9677 19.0071 27.9069L19.3282 27.1239L19.96 23.0379L24.4166 22.255L24.9064 22.0082C24.9675 21.8772 25 21.7332 25 21.5858V6Z" fill="#F3EEF8"/>
-          <path d="M24.9102 22H20C19.4477 22 19 22.4477 19 23V27.9102C19.108 27.861 19.2074 27.7926 19.2929 27.7071L24.7071 22.2929C24.7926 22.2074 24.861 22.108 24.9102 22Z" fill="#CDC4D6"/>
-          <path d="M18 4C18 2.89543 17.1046 2 16 2C14.8954 2 14 2.89543 14 4H13C11.8954 4 11 4.89543 11 6V7.5C11 7.77614 11.2239 8 11.5 8H20.5C20.7761 8 21 7.77614 21 7.5V6C21 4.89543 20.1046 4 19 4H18ZM17 4C17 4.55228 16.5523 5 16 5C15.4477 5 15 4.55228 15 4C15 3.44772 15.4477 3 16 3C16.5523 3 17 3.44772 17 4Z" fill="#9B9B9B"/>
-          <path d="M9 12.5C9 12.2239 9.22386 12 9.5 12H22.5C22.7761 12 23 12.2239 23 12.5C23 12.7761 22.7761 13 22.5 13H9.5C9.22386 13 9 12.7761 9 12.5Z" fill="#9B9B9B"/>
-          <path d="M9 15.5C9 15.2239 9.22386 15 9.5 15H22.5C22.7761 15 23 15.2239 23 15.5C23 15.7761 22.7761 16 22.5 16H9.5C9.22386 16 9 15.7761 9 15.5Z" fill="#9B9B9B"/>
-          <path d="M9.5 18C9.22386 18 9 18.2239 9 18.5C9 18.7761 9.22386 19 9.5 19H22.5C22.7761 19 23 18.7761 23 18.5C23 18.2239 22.7761 18 22.5 18H9.5Z" fill="#9B9B9B"/>
-          <path d="M9 21.5C9 21.2239 9.22386 21 9.5 21H17.5C17.7761 21 18 21.2239 18 21.5C18 21.7761 17.7761 22 17.5 22H9.5C9.22386 22 9 21.7761 9 21.5Z" fill="#9B9B9B"/>
-        </g>
+    <line x1="1201.688141242139" y1="291.9672893872643" x2="1230.834335977185" y2="328.73742265697524" stroke="var(--accent-3)" stroke-width="2" stroke-dasharray="2 2" opacity="0.5"/>
+    <circle cx="1230.834335977185" cy="328.73742265697524" r="3" fill="var(--accent-3)"/>
+    <!-- Node 3 Frames -->
+    <rect id="ITEM_3_BG" x="1240.8" y="278.73742265697524" width="380" height="170" rx="22" fill="var(--panel)" stroke="var(--accent-3)" stroke-width="2" stroke-opacity="0.25" fill-opacity="0.94" pointer-events="none"/>
+    <rect id="ORBITAL-RINGS_ART_ITEM_SHEEN_3" x="1240.8" y="278.73742265697524" width="380" height="170" rx="18" fill="var(--accent-6)" opacity="0.62" fill-opacity="0.15" stroke="var(--accent-6)" stroke-opacity="1.0"/>
+    <rect id="ITEM_3_HEAD_FRAME" x="1240.834335977185" y="288.73742265697524" width="260" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_3_BODY_FRAME" x="1240.8" y="328.73742265697524" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_3_TEXT_BG" x="1222.8" y="274.73742265697524" width="416" height="192" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-width="2"/>
+    <text id="ITEM_3_HEAD" x="1240.834335977185" y="288.73742265697524" font-family="var(--font-heading)" font-weight="bold" font-size="28" fill="var(--accent-6)" text-anchor="start" data-bg-id="ITEM_3_BG" fill-opacity="1.0" stroke="none" style="font-size: 29px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="29">
+      <tspan x="1240.834335977185" dy="27.98px">Myth: Uniform Data</tspan>
+    </text>
+    <text id="ITEM_3_BODY" x="1240.8" y="328.73742265697524" font-family="var(--font-body)" font-size="20" fill="var(--primary-text)" opacity="0.8" text-anchor="start" data-bg-id="ITEM_3_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1240.8" dy="32.84px">Voluntary systems vary</tspan>
+      <tspan x="1240.8" dy="29.90px">by state awareness levels</tspan>
+    </text>
+    <circle id="ORBITAL_RINGS_ART_NODE_AURA_4" cx="720.8830091966074" cy="824.9685328402597" r="58" fill="var(--accent-7)" opacity="0.72" fill-opacity="0.15" stroke="var(--accent-7)" stroke-opacity="1.0"/>
+    <circle id="ITEM_4_BORDER" cx="720.8830091966074" cy="824.9685328402597" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-7)" filter="url(#svg5cd8e35a-drop-shadow)" stroke-opacity="1.0"/>
+    <circle id="ITEM_4_STROKE" cx="720.8830091966074" cy="824.9685328402597" r="34" fill="none" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4" opacity="0.95"/>
+    <!-- Node Icon Placeholder -->
+    <circle id="ITEM_4_PAD" cx="724.88" cy="828.97" r="44.80" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_4_PAD_INNER" cx="724.88" cy="828.97" r="34.94" fill="var(--accent-7)" fill-opacity="0.22"/>
+    <g id="ITEM_4_ICON" transform="translate(696.8830091966074, 800.9685328402597)" data-icon-size="56" stroke-dasharray="6 4">
+      <g transform="translate(-11.935999999999995,-11.311999999999992) scale(2.4959999999999996)">
+        <path d="M25.0642 23.4047L23.9155 20.598L22.2011 21.2996L23.3511 24.1097L23.3525 24.113C23.5183 24.5137 23.3281 24.9545 22.9426 25.1096L18.0368 27.1219L18.0342 27.123C17.6335 27.2888 17.1927 27.0987 17.0376 26.7132L15.8855 23.898L14.1711 24.5997L15.3202 27.4074C15.8659 28.7594 17.403 29.3881 18.741 28.8353L18.7425 28.8347L23.6372 26.8268C24.9889 26.281 25.6173 24.7444 25.065 23.4066L25.0642 23.4047ZM8 23.5L9.70824 26.7789C10.3282 27.4289 10.2982 28.4589 9.63824 29.0689C8.98824 29.6789 7.95824 29.6489 7.34824 28.9989L2.43824 23.7889C1.82824 23.1389 1.85824 22.1089 2.50824 21.4989C3.15824 20.8889 4.18824 20.9189 4.79824 21.5689L8 23.5Z" fill="#FFB02E"/>
+        <path d="M29.2283 15.0788L17.6783 2.82884C16.4083 1.47884 14.1783 1.82887 13.3883 3.50887L4.79834 21.5689L9.76834 26.8389L28.3083 19.3288C30.0183 18.6388 30.4983 16.4288 29.2283 15.0788Z" fill="#F9C23C"/>
       </g>
-      <text id="ITEM_4_HEAD" x="0.0" y="-85.0" text-anchor="middle" font-weight="bold" font-size="28" fill="var(--accent-4)" data-bg-id="ITEM_4_BG" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
-        <tspan x="0.0" dy="37.75px">Voluntary Basis</tspan>
-      </text>
-      <rect id="ITEM_4_HEAD_FRAME" x="-310" y="-85" width="620" height="50" fill="none"/>
-      <text id="ITEM_4_BODY" x="0.0" y="-20.0" text-anchor="middle" font-size="22" fill="var(--primary-text)" opacity="0.88" data-bg-id="ITEM_4_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
-        <tspan x="0.0" dy="51.40px">Reports depend on people choosing to submit</tspan>
-      </text>
-      <rect id="ITEM_4_BODY_FRAME" x="-310" y="-20" width="620" height="155" fill="none"/>
     </g>
-    <!-- Row 3 - cards at y=670 -->
-    <g transform="translate(480.0, 670.0)">
-      <rect id="ITEM_5_ACCENT_BG" x="-400" y="-110" width="800" height="245" rx="24" fill="var(--accent-5)" fill-opacity="0.15"/>
-      <rect id="ITEM_5_BG" x="-400" y="-110" width="800" height="245" rx="18" fill="var(--panel)" stroke="var(--accent-5)" filter="url(#svg73d6276d-shadow)" stroke-width="3"/>
-      <rect x="-388" y="-98" width="776" height="221" rx="16" fill="url(#svg73d6276d-myth-card-sheen)" opacity="0.92"/>
-      <circle id="ITEM_5_PAD" cx="-330" cy="-40" r="46" fill="var(--icon-pad-bg)" stroke="var(--background)" stroke-width="2" stroke-opacity="0.65" opacity="0.94"/>
-      <circle id="ITEM_5_PAD_INNER" cx="-330" cy="-40" r="35.88" fill="var(--accent-5)" fill-opacity="0.22"/>
-      <circle cx="-330" cy="-40" r="34" fill="none" stroke="var(--accent-5)" stroke-width="3" stroke-dasharray="6 4"/>
-      <g id="ITEM_5_ICON" transform="translate(-358, -68)" data-icon-size="56" stroke-dasharray="6 4">
-        <g transform="translate(-14.230442477876116,-12.325309734513278) scale(2.540176991150443)">
-          <path d="M16.25 29.25C16.25 29.6642 15.9143 30 15.5 30C15.0858 30 14.75 29.6642 14.75 29.25V18.2847L6.35413 29.6945C6.10863 30.0281 5.63916 30.0996 5.30554 29.8541C4.97192 29.6086 4.90047 29.1391 5.14597 28.8055L13.8421 16.9877C13.3669 16.9119 13 16.4964 13 16C13 15.4505 13.4497 15 13.9983 15H14.75V11.75C14.75 11.3358 15.0858 11 15.5 11C15.9143 11 16.25 11.3358 16.25 11.75V15H17.0018C17.5504 15 18 15.4505 18 16C18 16.421 17.7361 16.7839 17.366 16.9306L26.1041 28.8055C26.3496 29.1391 26.2782 29.6086 25.9446 29.8541C25.6109 30.0996 25.1415 30.0281 24.896 29.6945L16.25 17.9449V29.25Z" fill="#7167A4"/>
-          <path d="M3.22683 4.27809C2.6088 5.92946 3.30622 7.78583 4.80973 8.60757L5.74923 8.95918L7.99999 8.00013L8.99999 4.00013L8.19939 2.40199L7.26328 2.05165C5.5897 1.68436 3.84485 2.62671 3.22683 4.27809Z" fill="#AEDDFF"/>
-          <path d="M22.8343 8.94678L27.5555 10.7137L29 13.0001L28 15.0001L25.7687 15.3837L21.0817 13.6296L20 10.5001L22.8343 8.94678Z" fill="#D3D3D3"/>
-          <path d="M8.59557 3.94216L11.9373 3.80078L23.1846 8.01009L20.731 14.566L9.48157 10.3559L7.48633 7.72365L8.59557 3.94216Z" fill="#BEBEBE"/>
-          <path d="M11.9459 3.80389L8.19965 2.40186L5.74609 8.95777L9.49233 10.3598L11.9459 3.80389Z" fill="#5235A6"/>
-          <path d="M29.39 11.4001L27.5169 10.6991L25.7644 15.3819L27.6375 16.0829C28.1547 16.2765 28.731 16.0141 28.9246 15.4969L29.9761 12.6872C30.1697 12.1699 29.9073 11.5937 29.39 11.4001Z" fill="#5235A6"/>
-        </g>
+    <line x1="690.0292039316536" y1="861.7386661099707" x2="660.8830091966074" y2="824.9685328402597" stroke="var(--accent-4)" stroke-width="2" stroke-dasharray="2 2" opacity="0.5"/>
+    <circle cx="660.8830091966074" cy="824.9685328402597" r="3" fill="var(--accent-4)"/>
+    <!-- Node 4 Frames -->
+    <rect id="ITEM_4_BG" x="270.9" y="774.9685328402597" width="380" height="170" rx="22" fill="var(--panel)" stroke="var(--accent-4)" stroke-width="2" stroke-opacity="0.25" fill-opacity="0.94" pointer-events="none"/>
+    <rect id="ORBITAL-RINGS_ART_ITEM_SHEEN_4" x="270.9" y="774.9685328402597" width="380" height="170" rx="18" fill="var(--accent-7)" opacity="0.62" fill-opacity="0.15" stroke="var(--accent-7)" stroke-opacity="1.0"/>
+    <rect id="ITEM_4_HEAD_FRAME" x="390.8830091966074" y="784.9685328402597" width="260" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_4_BODY_FRAME" x="270.9" y="824.9685328402597" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_4_TEXT_BG" x="252.9" y="770.9685328402597" width="416" height="192" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-width="2"/>
+    <text id="ITEM_4_HEAD" x="650.8830091966074" y="784.9685328402597" font-family="var(--font-heading)" font-weight="bold" font-size="28" fill="var(--accent-7)" text-anchor="end" data-bg-id="ITEM_4_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="650.8830091966074" dy="28.25px">Fact: Local Media</tspan>
+    </text>
+    <text id="ITEM_4_BODY" x="650.9" y="824.9685328402597" font-family="var(--font-body)" font-size="20" fill="var(--primary-text)" opacity="0.8" text-anchor="end" data-bg-id="ITEM_4_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="650.9" dy="32.84px">Community outlets prompt</tspan>
+      <tspan x="650.9" dy="29.90px">residents to file logs</tspan>
+    </text>
+    <circle id="ORBITAL_RINGS_ART_NODE_AURA_5" cx="1227.3996456296004" cy="858.6744883374948" r="58" fill="var(--accent-8)" opacity="0.72" fill-opacity="0.15" stroke="var(--accent-8)" stroke-opacity="1.0"/>
+    <circle id="ITEM_5_BORDER" cx="1227.3996456296004" cy="858.6744883374948" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-8)" filter="url(#svg5cd8e35a-drop-shadow)" stroke-opacity="1.0"/>
+    <circle id="ITEM_5_STROKE" cx="1227.3996456296004" cy="858.6744883374948" r="34" fill="none" stroke="var(--accent-5)" stroke-width="3" stroke-dasharray="6 4" opacity="0.95"/>
+    <!-- Node Icon Placeholder -->
+    <circle id="ITEM_5_PAD" cx="1231.40" cy="862.67" r="44.80" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_5_PAD_INNER" cx="1231.40" cy="862.67" r="34.94" fill="var(--accent-8)" fill-opacity="0.22"/>
+    <g id="ITEM_5_ICON" transform="translate(1203.3996456296004, 834.6744883374948)" data-icon-size="56" stroke-dasharray="6 4">
+      <g transform="translate(-11.935999999999995,-11.935999999999995) scale(2.4959999999999996)">
+        <path d="M2 9.00001L15.2666 6.15716C15.7501 6.05357 16.2499 6.05357 16.7334 6.15716L30 9.00001V24.8C30 27.6719 27.6719 30 24.8 30H7.2C4.32812 30 2 27.6719 2 24.8V9.00001Z" fill="#B4ACBC"/>
+        <path d="M3 8.00005L15.213 5.18167C15.7309 5.06216 16.2691 5.06216 16.787 5.18167L29 8.00005V24.5001C29 26.9853 26.9853 29.0001 24.5 29.0001H7.5C5.01472 29.0001 3 26.9853 3 24.5001V8.00005Z" fill="#F3EEF8"/>
+        <path d="M7.9998 12C7.88935 12 7.7998 12.0895 7.7998 12.2V14.8C7.7998 14.9105 7.88935 15 7.9998 15H10.7998C10.9103 15 10.9998 14.9105 10.9998 14.8V12.2C10.9998 12.0895 10.9103 12 10.7998 12H7.9998Z" fill="#998EA4"/>
+        <path d="M7.9998 17.5C7.88935 17.5 7.7998 17.5895 7.7998 17.7V20.3C7.7998 20.4105 7.88935 20.5 7.9998 20.5H10.7998C10.9103 20.5 10.9998 20.4105 10.9998 20.3V17.7C10.9998 17.5895 10.9103 17.5 10.7998 17.5H7.9998Z" fill="#998EA4"/>
+        <path d="M7.7998 23.1C7.7998 22.9896 7.88935 22.9 7.9998 22.9H10.7998C10.9103 22.9 10.9998 22.9896 10.9998 23.1V25.7C10.9998 25.8105 10.9103 25.9 10.7998 25.9H7.9998C7.88935 25.9 7.7998 25.8105 7.7998 25.7V23.1Z" fill="#998EA4"/>
+        <path d="M14.5998 12C14.4893 12 14.3998 12.0895 14.3998 12.2V14.8C14.3998 14.9105 14.4893 15 14.5998 15H17.3998C17.5102 15 17.5998 14.9105 17.5998 14.8V12.2C17.5998 12.0895 17.5102 12 17.3998 12H14.5998Z" fill="#998EA4"/>
+        <path d="M14.3998 17.7C14.3998 17.5895 14.4893 17.5 14.5998 17.5H17.3998C17.5102 17.5 17.5998 17.5895 17.5998 17.7V20.3C17.5998 20.4105 17.5102 20.5 17.3998 20.5H14.5998C14.4893 20.5 14.3998 20.4105 14.3998 20.3V17.7Z" fill="#998EA4"/>
+        <path d="M14.5998 22.9C14.4893 22.9 14.3998 22.9896 14.3998 23.1V25.7C14.3998 25.8105 14.4893 25.9 14.5998 25.9H17.3998C17.5102 25.9 17.5998 25.8105 17.5998 25.7V23.1C17.5998 22.9896 17.5102 22.9 17.3998 22.9H14.5998Z" fill="#998EA4"/>
+        <path d="M20.9998 12.2C20.9998 12.0895 21.0894 12 21.1998 12H23.9998C24.1103 12 24.1998 12.0895 24.1998 12.2V14.8C24.1998 14.9105 24.1103 15 23.9998 15H21.1998C21.0894 15 20.9998 14.9105 20.9998 14.8V12.2Z" fill="#998EA4"/>
+        <path d="M21.1998 22.9C21.0894 22.9 20.9998 22.9896 20.9998 23.1V25.7C20.9998 25.8105 21.0894 25.9 21.1998 25.9H23.9998C24.1103 25.9 24.1998 25.8105 24.1998 25.7V23.1C24.1998 22.9896 24.1103 22.9 23.9998 22.9H21.1998Z" fill="#998EA4"/>
+        <path d="M7.2 2C4.32812 2 2 4.32812 2 7.2V9H30V7.2C30 4.32812 27.6719 2 24.8 2H7.2Z" fill="#0084CE"/>
+        <path d="M21.2 17.5C21.0895 17.5 21 17.5895 21 17.7V20.3C21 20.4105 21.0895 20.5 21.2 20.5H24C24.1105 20.5 24.2 20.4105 24.2 20.3V17.7C24.2 17.5895 24.1105 17.5 24 17.5H21.2Z" fill="#0084CE"/>
       </g>
-      <text id="ITEM_5_HEAD" x="0.0" y="-85.0" text-anchor="middle" font-weight="bold" font-size="28" fill="var(--accent-5)" data-bg-id="ITEM_5_BG" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
-        <tspan x="0.0" dy="37.75px">Temporal Spikes</tspan>
-      </text>
-      <rect id="ITEM_5_HEAD_FRAME" x="-310" y="-85" width="620" height="50" fill="none"/>
-      <text id="ITEM_5_BODY" x="0.0" y="-20.0" text-anchor="middle" font-size="22" fill="var(--primary-text)" opacity="0.88" data-bg-id="ITEM_5_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
-        <tspan x="0.0" dy="51.40px">Report counts fluctuate based on celestial events</tspan>
-      </text>
-      <rect id="ITEM_5_BODY_FRAME" x="-310" y="-20" width="620" height="155" fill="none"/>
     </g>
+    <line x1="1258.2534508945544" y1="895.4446216072058" x2="1287.3996456296004" y2="858.6744883374948" stroke="var(--accent-5)" stroke-width="2" stroke-dasharray="2 2" opacity="0.5"/>
+    <circle cx="1287.3996456296004" cy="858.6744883374948" r="3" fill="var(--accent-5)"/>
+    <!-- Node 5 Frames -->
+    <rect id="ITEM_5_BG" x="1297.4" y="808.6744883374948" width="380" height="170" rx="22" fill="var(--panel)" stroke="var(--accent-5)" stroke-width="2" stroke-opacity="0.25" fill-opacity="0.94" pointer-events="none"/>
+    <rect id="ORBITAL-RINGS_ART_ITEM_SHEEN_5" x="1297.4" y="808.6744883374948" width="380" height="170" rx="18" fill="var(--accent-8)" opacity="0.62" fill-opacity="0.15" stroke="var(--accent-8)" stroke-opacity="1.0"/>
+    <rect id="ITEM_5_HEAD_FRAME" x="1297.3996456296004" y="818.6744883374948" width="260" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_5_BODY_FRAME" x="1297.4" y="858.6744883374948" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_5_TEXT_BG" x="1279.3996456296004" y="804.6744883374948" width="416.0003543703996" height="192" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-width="2"/>
+    <text id="ITEM_5_HEAD" x="1297.3996456296004" y="818.6744883374948" font-family="var(--font-heading)" font-weight="bold" font-size="28" fill="var(--accent-8)" text-anchor="start" data-bg-id="ITEM_5_BG" fill-opacity="1.0" stroke="none" style="font-size: 28px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="28">
+      <tspan x="1297.3996456296004" dy="26.30px">Myth: Constant Rate</tspan>
+    </text>
+    <text id="ITEM_5_BODY" x="1297.4" y="858.6744883374948" font-family="var(--font-body)" font-size="20" fill="var(--primary-text)" opacity="0.8" text-anchor="start" data-bg-id="ITEM_5_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1297.4" dy="32.84px">Annual counts drop or rise</tspan>
+      <tspan x="1297.4" dy="29.90px">with yearly trends</tspan>
+    </text>
+    <circle id="ORBITAL_RINGS_ART_NODE_AURA_6" cx="664.3176995441919" cy="227.61955616527013" r="58" fill="var(--accent-9)" opacity="0.72" fill-opacity="0.15" stroke="var(--accent-9)" stroke-opacity="1.0"/>
+    <circle id="ITEM_6_BORDER" cx="664.3176995441919" cy="227.61955616527013" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-9)" filter="url(#svg5cd8e35a-drop-shadow)" stroke-opacity="1.0"/>
+    <circle id="ITEM_6_STROKE" cx="664.3176995441919" cy="227.61955616527013" r="34" fill="none" stroke="var(--accent-6)" stroke-width="3" stroke-dasharray="6 4" opacity="0.95"/>
+    <!-- Node Icon Placeholder -->
+    <circle id="ITEM_6_PAD" cx="668.32" cy="231.62" r="44.80" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_6_PAD_INNER" cx="668.32" cy="231.62" r="34.94" fill="var(--accent-9)" fill-opacity="0.22"/>
+    <g id="ITEM_6_ICON" transform="translate(640.3176995441919, 203.61955616527013)" data-icon-size="56" stroke-dasharray="6 4">
+      <g transform="translate(-24.009674418604643,-25.22865116279069) scale(3.4673116279069762)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+        <path fill="#f1f5f9" d="M4.93 20.97c0-.26.09-.47.28-.62c.14-.16.35-.23.63-.23h18.34c.25 0 .46.08.64.24s.26.37.26.61s-.09.45-.27.62s-.39.27-.63.27H5.84a.87.87 0 0 1-.64-.27a.83.83 0 0 1-.27-.62m1.97-8.29c0-.26.08-.47.23-.63c.17-.18.38-.26.65-.26c.23 0 .43.09.6.26l1.5 1.5q.27.27.27.63c0 .23-.09.44-.27.62q-.225.27-.6.27c-.375 0-.47-.09-.64-.27l-1.5-1.5c-.16-.15-.24-.35-.24-.62m2.93 5.59c-.04.16.01.23.15.23h1.49c.07 0 .14-.06.22-.17c.3-.64.74-1.14 1.33-1.52s1.24-.56 1.96-.56c.73 0 1.39.19 1.99.56s1.05.88 1.35 1.52c.08.11.16.17.23.17h1.48c.13 0 .18-.08.15-.23a5.23 5.23 0 0 0-1.95-2.76c-.96-.71-2.04-1.06-3.25-1.06c-1.2 0-2.28.35-3.23 1.06c-.93.71-1.58 1.63-1.92 2.76m4.31-6.46V9.68c0-.25.08-.46.24-.64s.37-.26.61-.26a.874.874 0 0 1 .88.9v2.14a.85.85 0 0 1-.88.89c-.24 0-.45-.09-.61-.26s-.24-.39-.24-.64m5.72 2.37c0-.24.08-.45.25-.63l1.54-1.5c.16-.18.36-.26.62-.26c.24 0 .44.08.6.25s.23.38.23.64s-.08.47-.23.62l-1.48 1.5c-.17.17-.36.26-.56.28c-.23.02-.44-.06-.65-.24s-.32-.41-.32-.66" vector-effect="non-scaling-stroke" stroke="none"/>
+      </g>
+    </g>
+    <line x1="633.463894279238" y1="190.84942289555917" x2="604.3176995441919" y2="227.61955616527013" stroke="var(--accent-6)" stroke-width="2" stroke-dasharray="2 2" opacity="0.5"/>
+    <circle cx="604.3176995441919" cy="227.61955616527013" r="3" fill="var(--accent-6)"/>
+    <!-- Node 6 Frames -->
+    <rect id="ITEM_6_BG" x="214.3" y="177.61955616527013" width="380" height="170" rx="22" fill="var(--panel)" stroke="var(--accent-6)" stroke-width="2" stroke-opacity="0.25" fill-opacity="0.94" pointer-events="none"/>
+    <rect id="ORBITAL-RINGS_ART_ITEM_SHEEN_6" x="214.3" y="177.61955616527013" width="380" height="170" rx="18" fill="var(--accent-9)" opacity="0.62" fill-opacity="0.15" stroke="var(--accent-9)" stroke-opacity="1.0"/>
+    <rect id="ITEM_6_HEAD_FRAME" x="334.3176995441919" y="187.61955616527013" width="260" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_6_BODY_FRAME" x="214.3" y="227.61955616527013" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_6_TEXT_BG" x="196.3" y="173.61955616527013" width="416.0176995441919" height="192" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-width="2"/>
+    <text id="ITEM_6_HEAD" x="594.3176995441919" y="187.61955616527013" font-family="var(--font-heading)" font-weight="bold" font-size="28" fill="var(--accent-9)" text-anchor="end" data-bg-id="ITEM_6_BG" fill-opacity="1.0" stroke="none" style="font-size: 29px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="29">
+      <tspan x="594.3176995441919" dy="27.98px">Fact: Coastal Edge</tspan>
+    </text>
+    <text id="ITEM_6_BODY" x="594.3" y="227.61955616527013" font-family="var(--font-body)" font-size="20" fill="var(--primary-text)" opacity="0.8" text-anchor="end" data-bg-id="ITEM_6_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="594.3" dy="32.84px">Atlantic horizon removes</tspan>
+      <tspan x="594.3" dy="29.90px">visual obstructions</tspan>
+    </text>
   </g>
 </svg>
